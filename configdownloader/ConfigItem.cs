@@ -15,6 +15,8 @@ namespace configdownloader
 
         public string URL { get; set; }
 
+        public string FileName { get; set; }
+
         public uint RatesUp { get; set; }
 
         public uint RatesDown { get; set; }

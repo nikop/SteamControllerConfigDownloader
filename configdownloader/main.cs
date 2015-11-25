@@ -105,6 +105,18 @@ namespace configdownloader
 
         void startNewRequest()
         {
+            if (!isReady)
+            {
+                MessageBox.Show("Waiting for connection!");
+                return;
+            }
+
+            if (requestOnGoing)
+            {
+                MessageBox.Show("Waiting for results");
+                return;
+            }
+
             if (uint.TryParse(inputAppID.Text.Trim(), out appidCurrent))
             {
                 pageCurrent = 1;
@@ -155,6 +167,7 @@ namespace configdownloader
                 {
                     App = item.app_name,
                     Name = item.title,
+                    FileName = item.filename.Split('/').Last(),
                     URL = item.file_url,
                     RatesUp = item.vote_data != null ? item.vote_data.votes_up : 0,
                     RatesDown = item.vote_data != null ? item.vote_data.votes_down : 0,
@@ -194,18 +207,6 @@ namespace configdownloader
 
         private void get_Click(object sender, EventArgs e)
         {
-            if (!isReady)
-            {
-                MessageBox.Show("Waiting for connection!");
-                return;
-            }
-
-            if (requestOnGoing)
-            {
-                MessageBox.Show("Waiting for results");
-                return;
-            }
-
             startNewRequest();
         }
 
@@ -220,6 +221,8 @@ namespace configdownloader
 
                 if (item != null)
                 {
+                    saveFileDialog1.FileName = item.FileName;
+
                     if (saveFileDialog1.ShowDialog() == DialogResult.OK)
                     {
                         using (var wc = new WebClient())
