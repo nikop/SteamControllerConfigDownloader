@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
@@ -25,11 +26,14 @@ namespace configdownloader
         uint appidCurrent = 0;
 
         uint pageCurrent = 1;
+        uint totalPages = 0;
 
         /// <summary>
         /// Items to requests per query, 100 is maximum allowed by Steam
         /// </summary>
         uint itemsPerPage = 100;
+
+        List<Game> Games = new List<Game>();
 
         BindingList<ConfigItem> items = new BindingList<ConfigItem>();
 
@@ -90,6 +94,11 @@ namespace configdownloader
             }
 
             isReady = true;
+
+            Invoke(new MethodInvoker(delegate
+            {
+                currentStatus.Text = string.Format("Conected to Steam!");
+            }));
         }
 
         void OnServiceMethod(SteamUnifiedMessages.ServiceMethodResponse callback)
@@ -119,18 +128,29 @@ namespace configdownloader
 
             if (uint.TryParse(inputAppID.Text.Trim(), out appidCurrent))
             {
-                pageCurrent = 1;
 
-                requestOnGoing = true;
-
-                items.Clear();
-
-                sendRequest();
             }
             else
             {
-                MessageBox.Show("Invalid AppID");
+                var game = Games.Where(x => x.Name == inputAppID.Text).FirstOrDefault();
+
+                if (game != null)
+                    appidCurrent = game.AppID;
+                else
+                {
+                    MessageBox.Show("Invalid AppID");
+                    return;
+                }
             }
+
+            pageCurrent = 1;
+            totalPages = 0;
+
+            requestOnGoing = true;
+
+            items.Clear();
+
+            sendRequest();
         }
 
         /// <summary>
@@ -157,6 +177,14 @@ namespace configdownloader
             };
 
             service.SendMessage(x => x.QueryFiles(query));
+
+            Invoke(new MethodInvoker(delegate
+            {
+                if (totalPages > 0)
+                    currentStatus.Text = string.Format("Requesting page {0} of {1}", pageCurrent, totalPages);
+                else
+                    currentStatus.Text = string.Format("Requesting page {0}", pageCurrent, totalPages);
+            }));
         }
 
         void HandleQueryFiles(CPublishedFile_QueryFiles_Response response, JobID jobid)
@@ -180,7 +208,9 @@ namespace configdownloader
                 }));
             }
 
-            if (Math.Ceiling(response.total / (double)itemsPerPage) > pageCurrent)
+            totalPages = (uint) Math.Ceiling(response.total / (double)itemsPerPage);
+
+            if (totalPages > pageCurrent)
             {
                 pageCurrent++;
 
@@ -189,6 +219,11 @@ namespace configdownloader
             else
             {
                 requestOnGoing = false;
+
+                Invoke(new MethodInvoker(delegate
+                {
+                    currentStatus.Text = string.Format("Complete!");
+                }));
             }
         }
 
@@ -198,11 +233,32 @@ namespace configdownloader
 
             steamThread = new Thread(steam_connection);
             steamThread.Start();
+
+            if (File.Exists("games.txt"))
+            {
+                foreach (var line in File.ReadAllLines("games.txt"))
+                {
+                    var parts = line.Split(new char[] { '\t' }, 2);
+
+                    Games.Add(new Game
+                    {
+                        AppID = uint.Parse(parts[0]),
+                        Name = parts[1]
+                    });
+                }
+            }
         }
 
         private void main_Load(object sender, EventArgs e)
         {
             configItemBindingSource.DataSource = items;
+
+            var source = new AutoCompleteStringCollection();
+            source.AddRange(Games.Select(x => x.Name).ToArray());
+
+            inputAppID.AutoCompleteCustomSource = source;
+            inputAppID.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            inputAppID.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
         }
 
         private void get_Click(object sender, EventArgs e)
