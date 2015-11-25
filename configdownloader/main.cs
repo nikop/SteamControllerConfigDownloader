@@ -97,7 +97,7 @@ namespace configdownloader
 
             Invoke(new MethodInvoker(delegate
             {
-                currentStatus.Text = string.Format("Conected to Steam!");
+                currentStatus.Text = string.Format("Connected to Steam!");
             }));
         }
 
