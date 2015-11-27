@@ -8452,6 +8452,9 @@
 412930	Farm Mania: Hot Vacation
 412940	Back to Dinosaur Island 
 413010	Conflicks - Revolutionary Space Battles Demo
+413080	Steam Controller Configs - Desktop
+413090	Steam Controller Configs - Big Picture
+413100	Steam Controller Configs - Big Picture Browsing
 413460	Draft Day Sports College Basketball 3
 413470	Where Angels Cry - Tears Of The Fallen (Collectors Edition)
 413490	Rothschild: The Sheep Will Wake
