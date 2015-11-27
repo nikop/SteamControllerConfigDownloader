@@ -6,11 +6,16 @@
 60	Ricochet
 70	Half-Life
 80	Counter-Strike: Condition Zero
+92	Codename Gordon
+100	Counter-Strike: Condition Zero Deleted Scenes
+120	Natural Selection
 130	Half-Life: Blue Shift
+210	Source Dedicated Server
 220	Half-Life 2
 240	Counter-Strike: Source
 280	Half-Life: Source
 300	Day of Defeat: Source
+304	Day of Defeat: Source Press Review
 320	Half-Life 2: Deathmatch
 340	Half-Life 2: Lost Coast
 360	Half-Life Deathmatch: Source
@@ -18,21 +23,42 @@
 400	Portal
 420	Half-Life 2: Episode Two
 440	Team Fortress 2
+480	Spacewar
+490	ValveTestApp490
 500	Left 4 Dead
+530	Left 4 Dead Demo
 550	Left 4 Dead 2
 570	Dota 2
+580	DotA 2 Dedicated Server
 620	Portal 2
 630	Alien Swarm
+659	Portal 2 - Pre-order
+700	ValveTestApp700
+710	Counter-Strike: Global Offensive Beta Dev
+720	Counter-Strike: Global Offensive Beta Dev PS3
 730	Counter-Strike: Global Offensive
+790	Counter-Strike: Global Offensive PS3 DS
+817	Dota 2 Private Beta Server
+841	Portal 2 Beta
+852	ValveTestApp852
+882	Source SDK Test Tool
+1001	Rag Doll Kung Fu Beta
 1002	Rag Doll Kung Fu
 1200	Red Orchestra: Ostfront 41-45
+1210	Red Orchestra Beta
 1230	Mare Nostrum
 1250	Killing Floor
+1270	Killing Floor Beta
 1280	Darkest Hour: Europe '44-'45
 1300	SiN Episodes: Emergence
+1309	SiN Multiplayer
+1313	SiN
+1320	SiN Episodes: Emergence
 1500	Darwinia
+1504	Darwinia Press Review
 1510	Uplink
 1520	DEFCON
+1525	DEFCON Beta
 1530	Multiwinia
 1600	Dangerous Waters
 1610	Space Empires IV Deluxe
@@ -42,9 +68,16 @@
 1670	Iron Warriors: T-72 Tank Command
 1690	Space Empires V
 1700	Arx Fatalis
+1820	Counter-Strike: Global Offensive Press
+1860	Portal 2 Demo
+1880	[Prep] Team Fortress 2
 1900	Earth 2160
+1920	Two Worlds
 1930	Two Worlds: Epic Edition
 2100	Dark Messiah of Might & Magic Single Player
+2110	Dark Messiah Multiplayer Open Beta
+2115	Dark Messiah of Might & Magic Single Player
+2130	Dark Messiah of Might & Magic Multi-Player
 2200	Quake III Arena
 2210	Quake 4
 2270	Wolfenstein 3D
@@ -60,11 +93,17 @@
 2370	HeXen: Deathkings of the Dark Citadel
 2390	Heretic: Shadow of the Serpent Riders
 2400	The Ship
+2410	The Ship Beta
+2413	The Ship Dedicated Server Beta
 2420	The Ship Single Player
+2430	The Ship Tutorial
 2450	Bloody Good Time
 2500	Shadowgrounds
 2520	Gumboy: Crazy Adventures
+2525	Gumboy Crazy Features
 2540	RIP
+2545	RIP 2: Strike Back
+2550	RIP 3: The Last Hero
 2570	Vigil: Blood Bitterness
 2590	Alpha Prime
 2600	Vampire: The Masquerade - Bloodlines
@@ -72,27 +111,40 @@
 2620	Call of Duty
 2630	Call of Duty 2
 2640	Call of Duty: United Offensive
+2680	The History Channel: Civil War
+2690	Empires: Dawn of the Modern World
 2700	RollerCoaster Tycoon 3: Platinum!
 2710	Act of War: Direct Action
 2720	ThreadSpace: Hyperbol
+2750	ThreadSpace: Hyperbol beta
+2760	Neverwinter Nights 2: Platinum
 2780	Arma: Combat Operations
+2790	Atari: 80 Classic Games in One!
 2800	X2: The Threat
 2810	X3: Reunion
 2820	X3: Terran Conflict
+2830	X3: Terran Conflict Dev
 2840	X: Beyond the Frontier
 2850	X-Tension
 2870	X Rebirth
 2900	688(I) Hunter/Killer
 2910	Fleet Command
 2920	Sub Command
+2930	Birth Of America
+2950	Jagged Alliance 2: Unfinished Business
 2990	FlatOut 2
 3000	GTI Racing
 3010	Xpand Rally
 3020	Call of Juarez
+3030	Call of Juarez - DirectX 10
+3040	FIM Speedway GP3
 3050	Xpand Rally Xtreme
 3130	Men of War: Red Tide
+3150	GM Rally
+3160	A Farewell to Dragons
 3170	King's Bounty: Armored Princess
 3200	Painkiller: Gold Edition
+3220	SpaceForce: Rogue Universe
 3230	Genesis Rising
 3260	Safecracker: The Ultimate Puzzle Adventure
 3270	Painkiller Overdose
@@ -122,6 +174,7 @@
 3520	Mystery PI: The Vegas Heist
 3530	Amazing Adventures Around the World
 3540	Peggle Nights
+3550	Peggle Nights Dev
 3560	Bejeweled Twist
 3570	Mystery P.I.: The New York Fortune
 3580	The Wizard's Pen
@@ -129,26 +182,43 @@
 3600	Escape Rosecliff Island
 3610	Mystery P.I.: Lost in Los Angeles
 3620	Zuma's Revenge
+3629	Zuma's Revenge
 3630	BookWorm Adventures Volume 2
+3640	Bookworm (TM) Adventures - Fractured Fairytales
+3650	Zuma's Revenge! - Adventure
+3680	Plants vs. Zombies Dev
 3700	Sniper Elite
 3710	Judge Dredd: Dredd vs Death
 3720	Evil Genius
 3730	Aliens versus Predator Classic 2000
+3740	RebLivTest
+3760	Alien vs. Predator: Benchmark Utility
+3770	Empire Earth
+3780	Empire Earth - Art of Conquest
+3790	Ground Control
 3800	Advent Rising
 3810	BloodRayne
 3820	BloodRayne 2
 3830	Psychonauts
+3860	Psychonauts Ach Test
 3900	Sid Meier's Civilization IV
 3910	Sid Meier's Civilization III: Complete
 3920	Sid Meier's Pirates!
+3930	Serious Sam 2
 3960	Shattered Union
+3970	Prey
 3980	CivCity: Rome
 3990	Sid Meier's Civilization IV: Warlords
 4000	Garry's Mod
 4100	Poker Superstars II
+4206	Race Internal Beta
 4230	Race: The WTCC Game
 4290	RACE: Caterham Expansion
 4300	RoboBlitz
+4320	Star Trek: D-A-C
+4329	Star Trek: D·A·C
+4400	City Life
+4410	City Life Deluxe
 4420	Silverfall
 4460	City Life 2008
 4470	Silverfall: Earth Awakening
@@ -160,11 +230,16 @@
 4560	Company of Heroes
 4570	Warhammer 40,000: Dawn of War - Game of the Year Edition
 4580	Warhammer 40,000: Dawn of War – Dark Crusade
+4600	Full Pipe
 4700	Medieval II: Total War
 4720	Condemned: Criminal Origins
+4730	OutRun 2006: Coast 2 Coast
+4740	Medieval Gold: Total War
 4760	Rome: Total War
 4770	Rome: Total War - Alexander
+4790	SEGA Rally Revo
 4800	Heroes of Annihilated Empires
+4830	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4850	Cossacks: Back to War
 4870	Cossacks: Art of War
 4880	Cossacks: European Wars
@@ -176,25 +251,42 @@
 6020	Star Wars Jedi Knight: Jedi Academy
 6030	Star Wars - Jedi Knight II: Jedi Outcast
 6040	The Dig
+6050	Zak McKracken and the Alien Mindbenders
 6060	Star Wars - Battlefront II
+6070	Monkey Island
 6080	Thrillville: Off the Rails
 6090	Armed and Dangerous
+6100	Eets
 6120	Shank
+6129	Shank pre-order
 6200	Ghost Master
 6210	Vegas: Make It Big
 6220	FlatOut
 6250	Making History: The Calm & The Storm
 6270	Ducati World Championship
+6290	Alien Shooter: Vengeance
 6300	Dreamfall: The Longest Journey
 6310	The Longest Journey
+6330	Age of Conan: Hyborian Adventures
+6340	Age of Conan - Hyborian Adventures
+6350	Age of Conan: Rise of the Godslayer
+6360	Age of Conan: Rise of the Godslayer
 6370	Bloodline Champions
 6400	Joint Task Force
 6420	Nexus: The Jupiter Incident
+6500	LOST PLANET EXTREME CONDITION Beta
 6510	Lost Planet: Extreme Condition
+6520	Lost Planet: Extreme Condition
 6550	Devil May Cry 3: Special Edition
+6570	Onimusha 3: Demon Siege
 6600	Bullet Candy
+6700	SteamTestApp6700
+6710	Test App 6710
+6720	TestContent
+6750	ValveTestApp6750
 6800	Commandos: Behind Enemy Lines
 6810	Commandos: Beyond the Call of Duty
+6820	Commandos: Strike Force
 6830	Commandos 2: Men of Courage
 6840	Commandos 3: Destination Berlin
 6850	Hitman 2: Silent Assassin
@@ -205,15 +297,27 @@
 6910	Deus Ex: Game of the Year Edition
 6920	Deus Ex: Invisible War
 6980	Thief: Deadly Shadows
+6990	Tomb Raider: Angel of Darkness
 7000	Tomb Raider: Legend
 7010	Project: Snowblind
 7020	Rogue Trooper
+7060	Infernal
+7100	Jade Empire Beta
 7110	Jade Empire: Special Edition
 7200	TrackMania United
+7203	TrackMania United Forever Beta
 7210	Runaway: A Road Adventure
 7220	Runaway: The Dream of the Turtle
+7240	Sherlock Holmes 2
+7250	Sherlock Holmes: The Awakened
 7260	Loki
 7340	Azada
+7400	Ricochet: Lost Worlds
+7420	Wik and the Fable of Souls
+7440	Big Kahuna Reef
+7450	Ricochet Infinity
+7470	Simplz Zoo
+7500	UFO: Afterlight - Old Version
 7510	X-Blades
 7520	Two Worlds II
 7530	Two Worlds II Castle Defense
@@ -223,42 +327,84 @@
 7650	X-COM: Terror from the Deep
 7660	X-COM: Apocalypse
 7670	BioShock
+7680	ValveTestApp7680
+7720	Sid Meier's Civilization V XP Age Rating
 7730	X-COM: Interceptor
+7740	NBA 2K9
 7760	X-COM: UFO Defense
 7770	X-COM: Enforcer
+7780	MLB® Front Office Manager
+7800	Stubbs the Zombie in Rebel Without a Pulse
+7810	Top Spin 2
 7830	Men of War
 7840	Death Track: Resurrection
+7850	Cryostasis
 7860	NecroVisioN
+7870	1701 A.D.: Gold Edition
+7880	1701 A.D.: Sunken Dragon
+7900	The Movies
+7910	The Movies: Stunts and Effects
 7940	Call of Duty 4: Modern Warfare
+7950	Call of Duty 4: Modern Warfare
 7970	Cabelas Trophy Bucks
+7980	Soldier of Fortune: Payback
+7990	Monster Jam
 8000	Tomb Raider: Anniversary
+8009	Tomb Raider: Anniversary
+8010	Ancient Wars: Sparta
 8040	Championship Manager 2007
 8060	Championship Manager 2008
 8080	Kane & Lynch: Dead Men
 8100	Conflict: Denied Ops
 8140	Tomb Raider: Underworld
+8160	Shellshock 2: Blood Trails
 8170	Battlestations: Pacific
 8190	Just Cause 2
+8198	Just Cause 2 Black Market Chaos Pack
+8199	Just Cause 2 Pre-Order
+8200	Sam & Max 101: Culture Shock
+8210	Sam & Max 102: Situation: Comedy
+8220	Sam & Max 103: The Mole, the Mob and the Meatball
 8230	Sam & Max 104: Abe Lincoln Must Die!
+8240	Sam & Max 105: Reality 2.0
+8250	Sam & Max 106: Bright Side of the Moon
+8260	Sam & Max 201: Ice Station Santa
+8270	Sam & Max 202: Moai Better Blues
+8280	Sam & Max 203: Night of the Raving Dead
+8290	Sam & Max 204: Chariots of the Dogs
+8300	Sam & Max 205: What's New Beelzebub?
 8310	Bone: Out from Boneville
 8320	Bone: The Great Cow Race
 8330	Telltale Texas Hold'Em
 8340	Strong Bad Episode 1: Homestar Ruiner
+8350	Strong Bad Episode 2: Strong Badia the Free
+8360	Strong Bad Episode 3: Baddest of the Bands
+8370	Strong Bad Episode 4: Dangeresque 3
+8380	Strong Bad Episode 5: 8-Bit Is Enough
 8400	Geometry Wars: Retro Evolved
 8500	EVE Online
 8600	RACE 07
+8620	Attack on Pearl Harbor
+8640	RACE On
 8650	RACE 07: Andy Priaulx Crowne Plaza Raceway
 8660	GTR Evolution
 8690	STCC: The Game
+8740	Puzzlegeddon
 8790	GTR 2 - FIA GT Racing Game
 8800	Sid Meier's Civilization IV: Beyond the Sword
+8810	Sid Meiers Civilization IV Beyond the Sword Beta
+8830	MLB® Front Office Manager
+8840	Major League Baseball 2K9
 8850	BioShock 2
 8870	BioShock Infinite
 8880	Freedom Force
 8890	Freedom Force vs. the 3rd Reich
 8930	Sid Meier's Civilization V
+8940	Civilization 5 nVida/ATI build
+8950	Borderlands
 8970	Axel & Pixel
 8980	Borderlands
+8989	Borderlands
 9000	Wolfenstein 3D: Spear of Destiny
 9010	Return to Castle Wolfenstein
 9030	Quake Mission Pack 2: Dissolution of Eternity
@@ -269,9 +415,13 @@
 9160	Master Levels for DOOM II
 9180	Commander Keen Complete Pack
 9200	RAGE
+9219	Rage
+9220	IDKFA
 9310	Warhammer 40,000: Dawn of War – Winter Assault
 9340	Company of Heroes: Opposing Fronts
 9350	Supreme Commander
+9390	S.T.A.L.K.E.R.: Clear Sky
+9400	Juiced 2: Hot Import Nights
 9420	Supreme Commander: Forged Alliance
 9450	Warhammer 40,000: Dawn of War – Soulstorm
 9460	Frontlines: Fuel of War
@@ -279,25 +429,37 @@
 9500	Gish
 9710	Desperados 2: Cooper’s Revenge
 9730	Tycoon City: New York
+9740	Indigo Prophecy
 9760	Act of War: High Treason
 9800	Death to Spies
 9850	Codename: Panzers - Cold War
+9860	The Chronicles of Riddick: Assault on Dark Athena
 9870	Ghostbusters: The Video Game
 9880	Champions Online
 9900	Star Trek Online
 9930	Test Drive Unlimited 2
 9940	Blade Kitten
+9949	Blade Kitten
 9960	Haunted House
 9970	Star Raiders 
 9980	The UnderGarden
 9990	Ghostbusters: Sanctum of Slime
+10000	Enemy Territory: Quake Wars
+10040	The History Channel: Battle for the Pacific
+10080	Quantum of Solace
 10090	Call of Duty: World at War
+10100	King's Quest Collection
 10110	Space Quest Collection
 10120	Aces of the Galaxy
 10130	TimeShift
 10140	3D Ultra Minigolf Adventures Deluxe
 10150	Prototype
+10160	Secret Service
+10170	Wolfenstein
 10180	Call of Duty: Modern Warfare 2
+10190	Call of Duty: Modern Warfare 2 - Multiplayer
+10199	Call of Duty: Modern Warfare 2
+10200	Tarr Chronicles
 10220	Postal 3
 10230	Dead Mountaineer's Hotel
 10240	Stroke of Fate: Operation Valkyrie
@@ -305,16 +467,39 @@
 10260	PT Boats: South Gambit
 10270	Disciples III: Reincarnation
 10400	Sega Rally
+10410	Futbol Manager 2008
+10420	Worldwide Soccer Manager 2008
+10430	Universe at War: Earth Assault
+10440	The Golden Compass
 10460	The Club
+10470	Happy Tree Friends: False Alarm
+10480	Football Manager 2008
+10490	Iron Man
 10500	Empire: Total War
+10510	The Incredible Hulk: The Official Videogame
 10520	Beijing 2008
 10530	Space Siege
+10540	Football Manager 2009
+10560	Worldwide Soccer Manager 2009
+10580	Empire: Total War Beta
+10590	Football Manager 2009 Korean
+10610	Empire: Total War Press
+10630	Football Manager Live
+10650	Stormrise
+10660	Stormrise
 10680	Aliens vs. Predator
+10690	Virtua Tennis 2009
+10699	Aliens vs. Predator
+10700	Speedball 2: Tournament
 11040	Sherlock Holmes: Nemesis
 11050	Dracula: Origin
+11060	Pro Cycling Manager Season 2008
+11120	Pro Cycling Manager Season 2009
 11130	Sherlock Holmes: The Mystery of The Mummy
 11140	Sherlock Holmes: The Awakened - Remastered
 11150	Sherlock Holmes: The Secret of the Silver Earring
+11170	Blood Bowl: Dark Elves Edition
+11179	Blood Bowl: Dark Elves Edition
 11180	Sherlock Holmes: The Mystery of The Persian Carpet
 11190	Sherlock Holmes versus Jack the Ripper
 11200	Shadowgrounds: Survivor
@@ -328,12 +513,23 @@
 11360	Chains
 11370	Nikopol: Secrets of the Immortals
 11390	Crash Time II
+11420	Clive Barker's Jericho
+11430	Jericho Test
+11440	DiRT
 11450	Overlord
 11480	Soldiers: Heroes of World War II
+11500	ToCA Race Driver 3
+11510	Prisoner of War
+11520	Brian Lara International Cricket 2007
+11550	Second Sight
 11560	Maelstrom
+11570	LMA Manager 2007
 11590	Hospital Tycoon
 11610	Dragon Nest
+11700	Lord of the Rings Online
+11720	unused turbine game
 11900	Lumines
+11904	ValveTestApp11904
 11920	Lumines: Advanced Pack
 12100	Grand Theft Auto III
 12110	Grand Theft Auto: Vice City
@@ -342,15 +538,29 @@
 12140	Max Payne
 12150	Max Payne 2: The Fall of Max Payne
 12160	Midnight Club II
+12170	Grand Theft Auto
+12180	Grand Theft Auto 2
+12190	Wild Metal Country
 12200	Bully: Scholarship Edition
 12210	Grand Theft Auto IV
 12220	Grand Theft Auto: Episodes from Liberty City
+12230	Grand Theft Auto III
+12240	Grand Theft Auto: Vice City
+12250	Grand Theft Auto: San Andreas
+12260	Max Payne 2 (RU)
+12270	Bully RU
+12280	GTA 3 RU
+12290	Manhunt RU
+12300	Baseball Mogul 2008
 12310	Culpa Innata
 12320	Sacred Gold
 12330	DarkStar One
 12340	Jack Keane
 12360	FlatOut: Ultimate Carnage
+12370	Jagged Alliance 2: Gold Pack
+12380	Jagged Alliance 2 Gold: Unfinished Business
 12390	Exodus from the Earth
+12400	Baseball Mogul 2009
 12420	Perimeter 2: New Earth
 12430	SlamIt Pinball: Big Score
 12440	Ankh 2: Heart of Osiris
@@ -363,6 +573,7 @@
 12520	18 Wheels of Steel: American Long Haul
 12530	Hunting Unlimited 2008
 12540	Mahjongg Investigations: Under Suspicion
+12550	Are You Smarter than a 5th Grader?
 12560	Ride! Carnival Tycoon
 12570	Hot Dish
 12580	Dr. Daisy: Pet Vet
@@ -370,16 +581,26 @@
 12600	Midnight Outlaw: 6 Hours to Sun Up
 12630	Legend: Hand of God
 12640	Drakensang
+12650	Fetch It Again
+12660	Miss Popularity
 12670	Mission Runway
+12680	SpongeBob SquarePants: Nighty Nightmare
 12690	Hunting Unlimited 2010
 12710	Overlord: Raising Hell
+12720	Turning Point: Fall of Liberty
 12750	GRID
 12770	Rise of the Argonauts
 12790	Damnation
+12800	FUEL
 12810	Overlord II
 12830	Operation Flashpoint: Dragon Rising
+12840	DiRT 2
+12849	ValveTestApp12849
+12860	Ashes Cricket 2009
 12900	Audiosurf
 13000	Ninja Reflex: Steamworks Edition
+13100	America's Army Special Forces
+13120	America's Army 3 Beta
 13140	America's Army 3
 13200	Unreal II: The Awakening
 13210	Unreal Tournament 3: Black Edition
@@ -387,6 +608,7 @@
 13240	Unreal Tournament: Game of the Year Edition
 13250	Unreal Gold
 13500	Prince of Persia: Warrior Within
+13510	Tom Clancy's Ghost Recon: Advanced Warfighter 2
 13520	Far Cry
 13530	Prince of Persia: The Two Thrones
 13540	Tom Clancy's Rainbow Six: Vegas
@@ -396,7 +618,13 @@
 13600	Prince of Persia: The Sands of Time
 13620	Tom Clancy's Ghost Recon: Desert Siege
 13630	Tom Clancy's Ghost Recon: Island Thunder
+13640	Tom Clancy's Ghost Recon: Advanced Warfighter
+13650	Tom Clancy's Rainbow Six
+13660	Tom Clancy's Rainbow Six 2: Rogue Spear
+13700	Savage 2: A Tortured Soul
+13900	ValveTestApp13900
 15000	Tom Clancy's Rainbow Six: Lockdown
+15060	Rayman 2 - The Great Escape
 15080	Rayman: Raving Rabbids
 15100	Assassin's Creed
 15120	Tom Clancy's Rainbow Six: Vegas 2
@@ -411,20 +639,30 @@
 15220	Blazing Angels: Squadrons of WWII
 15230	Blazing Angels 2: Secret Missions of WWII
 15240	Silent Hunter: Wolves of the Pacific U-Boat Missions
+15260	Chessmaster: Grandmaster Edition
 15270	Cold Fear
+15280	Pacific Fighters
+15290	Lost: Via Domus
 15300	Tom Clancy's Ghost Recon
 15310	The Settlers: Heritage of Kings
 15320	IL-2 Sturmovik: 1946
+15330	The Settlers: Rise of an Empire
 15350	Brain Spa
+15360	Call of Juarez: DirectX 10
 15370	Heroes of Might & Magic V: Tribes of the East
 15380	Heroes of Might & Magic V: Hammers of Fate
 15390	Brothers in Arms: Hell's Highway
 15400	Harvest: Massive Encounter
+15410	Untitled Oxeye Game
 15500	The Wonderful End of the World
 15520	AaAaAA!!! - A Reckless Disregard for Gravity
+15529	AaaaaAAaaaAAAaaAAAAaAAAAA!!! -- A Reckless Disregard for Gravity
 15540	1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby)
+15550	1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby) - Demo
 15560	AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
 15620	Warhammer® 40,000™: Dawn of War® II
+15640	Warhammer® 40,000™: Dawn of War® II (Press Build)
+15660	Warhammer® 40,000™: Dawn of War® II - BETA
 15700	Oddworld: Abe's Oddysee
 15710	Oddworld: Abe's Exoddus
 15740	Oddworld: Munch's Oddysee
@@ -434,14 +672,18 @@
 15910	Luxor: Amun Rising
 15920	Luxor 2
 15930	Luxor 3
+15940	The Office
 15950	Reaxxion
 15960	Little Farm
 15970	Luxor
+15980	Money Tree
+15990	Elf Bowling: Hawaiian Vacation
 16000	Discovery! A Seek & Find Adventure
 16020	Samantha Swift and the Hidden Roses of Athena
 16030	7 Wonders: The Treasures of Seven
 16040	Luxor: Quest for the Afterlife
 16060	Samantha Swift and the Golden Touch
+16090	Gemsweeper
 16100	Virtual Villagers: A New Home
 16110	Virtual Villagers 2: The Lost Children
 16120	Plant Tycoon
@@ -449,23 +691,41 @@
 16180	Virtual Villagers 3: The Secret City
 16200	Virtual Families
 16300	Everyday Shooter
+16400	F.E.A.R. 2: Project Origin
 16450	F.E.A.R. 2: Project Origin
+16480	F.E.A.R. 2: Project Origin JP
 16500	Chaos Theory
 16600	Trials 2: Second Edition
 16620	Monster Trucks Nitro
+16700	Stronghold Crusader Extreme HD
 16710	Insecticide Part 1
 16720	Velvet Assassin
 16730	Legendary
 16810	Sid Meier's Civilization IV: Colonization
+16820	Civilization 5 Beta Debug
+16840	Sid Meier's Civilization V - Press
+16850	Civilization 5 Age Rating
+17000	Global Agenda - Beta
+17010	Global Agenda Dev
+17020	Global Agenda
+17030	Global Agenda - Beta
+17060	Tribes - Dev
+17070	Tribes - Test
 17080	Tribes: Ascend
 17100	Children of the Nile
 17120	Children of the Nile: Alexandria
 17140	Hinterland
+17160	Hinterland Beta
+17170	Mosby's Confederacy Beta
 17180	Mosby's Confederacy
+17200	F.E.A.R. 3 (BETA)
 17300	Crysis
 17330	Crysis Warhead
+17340	Crysis Wars
 17390	Spore
+17400	FIFA Manager 09
 17410	Mirror's Edge
+17420	Warhammer Online: Age of Reckoning
 17430	Need for Speed: Undercover
 17440	Spore: Creepy & Cute Parts Pack
 17450	Dragon Age: Origins
@@ -476,157 +736,282 @@
 17510	Age of Chivalry
 17520	Synergy
 17530	D.I.P.R.I.P. Warm Up
+17540	Digitanks
 17550	Eternal Silence
 17570	Pirates, Vikings, & Knights II
 17580	Dystopia
+17590	Dystopia Beta
+17600	Out of the Park Baseball 9
 17700	Insurgency: Modern Infantry Combat
 17710	Nuclear Dawn
+17719	ValveTestApp17719
+17720	Dreamball
 17730	Smashball
 17740	Empires
+17760	???
+17770	Firearms: Source
+17780	Dino D-Day
+17790	Nuclear Dawn - Dev: Dedicated Server
+17800	SpellForce 2: Shadow Wars
+17810	SpellForce 2: Dragon Storm
 18000	On the Rain-Slick Precipice of Darkness, Episode One
 18020	On the Rain-Slick Precipice of Darkness, Episode Two
 18040	DeathSpank
+18049	Deathspank Pre-order
 18050	DeathSpank: Thongs Of Virtue
+18059	Deathspank: Thongs of Virtue
 18070	The Baconing
+18100	Shattered Horizon: Arconauts
+18110	Shattered Horizon
+18119	Shattered Horizon Pre-order
 18120	Unstoppable Gorg
 18300	Spectraball
 18400	Crazy Machines 2
 18420	Crazy Machines
 18430	Crazy Machines 1.5
 18440	Crazy Machines 2 Add-On
+18450	Crazy Machines 1.5 New from the Lab
+18460	Crazy Machines 1.5 Inventors Training Camp
 18470	Helldorado
 18480	Mata Hari
+18490	The Whispered World
 18500	Defense Grid: The Awakening
 18600	Mayhem Intergalactic
 18700	And Yet It Moves
 18820	Zero Gear
+18930	Comatose
 19000	Silent Hill: Homecoming
 19020	Puzzle Chronicles
 19030	Rocket Knight
+19040	Frogger
 19080	Biozone
+19090	Yard Sale Hidden Treasures Sunnyville
 19200	Tank Universal
+19300	Geon
 19320	Space Ark
 19500	Eternity's Child
+19630	Grimm Episode 4: Puss In Boots
+19640	Grimm Episode 5: The Girl Without Hands
+19650	Grimm Episode 6: Godfather Death
+19660	Grimm Episode 7: The Devil and his three Golden Hairs
+19670	Grimm Episode 8: Beauty and the Beast
 19680	Alice: Madness Returns
 19800	Brothers in Arms: Earned in Blood
 19810	The Sum of All Fears
 19830	Tom Clancy's Rainbow Six 3: Gold Edition
+19840	Tom Clancy's Rainbow Six 3: Athena Sword
 19900	Far Cry 2
+19907	Far Cry 2: Fortunes Pack
+19910	Tom Clancy's Rainbow Six 2: Rogue Spear - Urban Operations
 19930	The Settlers: Rise of an Empire Gold Edition  
 19980	Prince of Persia
+19990	Shaun White Snowboarding
 20200	Galactic Bowling
+20400	Shattered Suns
 20500	Red Faction: Guerrilla Steam Edition
+20509	Red Faction Guerrilla
 20510	S.T.A.L.K.E.R.: Clear Sky
 20530	Red Faction
 20540	Company of Heroes: Tales of Valor
 20550	Red Faction II
 20570	Warhammer® 40,000™: Dawn of War® II - Chaos Rising™
+20589	Warhammer® 40,000™: Dawn of War® II – Chaos Rising™
+20590	League of Legends
+20600	Lunar Racing Championship
 20700	Starscape
 20710	Mr. Robot
+20800	SIF
 20820	Shatter
+20840	Rugby Challenge
 20900	The Witcher: Enhanced Edition
 20920	The Witcher 2: Assassins of Kings Enhanced Edition
+20929	The Witcher 2 Pre-Order
 21000	LEGO Batman: The Videogame
 21010	Watchmen: The End Is Nigh
 21030	Watchmen: The End Is Nigh Part 2
+21070	Wanted: Weapons of Fate
+21080	Terminator Salvation
 21090	F.E.A.R.
 21100	F.E.A.R. 3
+21110	F.E.A.R.: Extraction Point
+21120	F.E.A.R.: Perseus Mandate
 21130	Lego Harry Potter
+21140	LEGO: Universe
+21170	Gotham City Impostors
+21180	Gotham City Impostors Beta
 21300	Gravitron 2
 21400	Project Aftermath
 21500	Pyroblazer
 21600	Age of Booty
+21610	MotoGP 08
+21620	Neopets: Puzzle Adventure
 21640	FLOCK!
 21660	Street Fighter IV
 21670	Bionic Commando
 21680	Bionic Commando Rearmed
 21690	Resident Evil 5 / Biohazard 5
+21699	Resident Evil 5
+21730	CSI: Hard Evidence
+21750	CSI: NY - The Game
 21760	World in Conflict
 21780	Driver: Parallel Lines
 21800	Tom Clancy's EndWar
+21900	Tom Clancy's H.A.W.X.
 21910	World in Conflict: Soviet Assault
+21920	Wheelman
+21950	Grey's Anatomy: The Video Game
 21970	R.U.S.E
 21980	Call of Juarez: Bound in Blood
+21990	Teenage Mutant Ninja Turtles
 22000	World of Goo
 22100	Mount & Blade
 22120	Penumbra: Black Plague
 22130	Hearts of Iron II: Complete
 22140	Penumbra: Requiem
 22180	Penumbra: Overture
+22190	Penumbra Overture Demo
 22200	Zeno Clash
+22210	Zeno Clash Press
 22230	Rock of Ages
 22300	Fallout 3
 22310	Rogue Warrior
+22319	Rogue Warrior
 22320	The Elder Scrolls III: Morrowind
 22330	The Elder Scrolls IV: Oblivion 
 22340	Call of Cthulhu: Dark Corners of the Earth
 22350	BRINK
+22359	Brink
 22370	Fallout 3 - Game of the Year Edition
 22380	Fallout: New Vegas
+22449	Fallout: New Vegas
 22450	Hunted: The Demon's Forge
+22490	Fallout: New Vegas
 22500	Spectromancer
 22600	Worms Reloaded
 22610	Alien Breed: Impact
 22650	Alien Breed 2: Assault
 22670	Alien Breed 3: Descent
+22700	Sacred 2: Fallen Angel
+22830	Ghostbusters (eGuide): Prima Official eGuide
+23000	Zephyr - 01 - Tome of Infamy
+23100	Buccaneer: The Pursuit of Infamy
+23120	Droplitz
+23130	Mole Control
+23140	KrissX
+23150	Fluttabyes
+23190	Blitz Test
+23200	I-Fluid
 23300	Yosumin!
 23310	The Last Remnant
+23360	FINAL FANTASY XI
+23370	Yosumin Media preview
 23380	Gyromancer
+23390	FINAL FANTASY XI
 23400	Imperium Romanum: Gold Edition
 23420	Europa Universalis: Rome - Gold Edition
+23440	Europa Universalis: Rome - Vae Victis
 23450	Grand Ages: Rome
 23460	Ceville
 23490	Tropico 3 - Steam Special Edition
 23500	Puzzle Quest: Galactrix
+23510	Texas Cheat'Em
 23530	Earth Defense Force: Insect Armageddon
 23600	Depths of Peril
 23700	Puzzle Kingdoms
+23900	Marble Blast Ultra
+24000	App Id 24000
 24010	Train Simulator
+24020	App Id 24020
+24120	EverQuest: Secrets of Faydwer
+24130	EverQuest: Seeds of Destruction
+24140	Pirates of the Burning Sea
+24150	Vanguard: Saga of Heroes
+24170	Star Wars Galaxies
+24180	Everquest: Underfoot
 24200	DC Universe Online
+24210	Everquest: Underfoot - Raging Mercenaries
+24220	Everquest: House of Thule
 24240	PAYDAY: The Heist
 24400	King Arthur - The Role-playing Wargame
 24410	Crusaders: Thy Kingdom Come
 24420	Aquaria
 24460	King Arthur - Fallen Champions
+24470	King Arthur: Collection
 24480	King Arthur II - The Role-playing Wargame
+24500	Dreamkiller
+24509	Dreamkiller
+24600	Trainz 2009: Railroad Simulator
+24610	Trainz Classics: 1st & 2nd Edition
+24620	Trainz Classics: Volume 3
+24630	Trainz Simulator 2010: Engineers Edition
 24640	Trainz: Classic Cabon City
 24650	Trainz: Settle & Carlisle
 24660	Trainz: Murchison 2
 24670	Trainz Simulator 12
+24700	Warhammer Online: Age of Reckoning
 24720	Spore: Galactic Adventures
 24740	Burnout Paradise: The Ultimate Box
+24760	BattleForge
 24780	SimCity 4 Deluxe
 24790	Command and Conquer 3: Tiberium Wars
 24800	Command and Conquer: Red Alert 3 - Uprising
 24810	Command and Conquer 3: Kane's Wrath
+24820	The Godfather
+24830	Godfather 2
 24840	Medal of Honor: Airborne
+24850	FIFA Manager 10
+24859	FIFA Manager 10
 24860	Battlefield 2
 24870	Need for Speed: SHIFT
+24880	The Saboteur
+24920	Dragon Age: Origins Character Creator
+24940	Medal of Honor Pacific Assault
+24950	Battlefield Bad Company 2 Beta
 24960	Battlefield: Bad Company 2
+24969	Battlefield Bad Company 2 Pre-Order
 24980	Mass Effect 2
+24999	Mass Effect 2
 25000	Overgrowth
 25010	Lugaru HD 
+25100	Immortal Games MMO
 25500	Cricket Revolution
 25600	Eschalon: Book 1
 25620	Eschalon: Book 2
 25700	Madballs in...Babo: Invasion
+25720	MIBI Beta
+25730	Madballs in...Babo: Invasion Dev
 25800	Europa Universalis III
 25830	Knights of Honor
+25840	Take Command: Second Manassas
 25850	Elven Legacy
+25860	Sword of the Stars
+25870	Stalin vs. Martians
 25890	Hearts of Iron III
 25900	King's Bounty: The Legend
 25910	Supreme Ruler 2020: Gold
+25920	Sword of the Stars: Argos Naval Yard Expansion
+25930	East India Company
+25939	East India Company
+25940	East India Company: Pirate Bay
 25980	Majesty 2
+25989	Majesty 2
 25990	Majesty: Gold Edition
 26000	The Maw
 26300	Drug Wars
 26500	Cogs
+26700	Smashing Toys Press Demo
+26710	Smashing Toys
 26800	Braid
 26900	Crayon Physics Deluxe
 27000	The Path
 27020	The Graveyard
+27040	The Path - Prologue
 27050	FATALE
 27200	Summer Athletics
+27220	Divinity II - Ego Draconis
+27240	Summer Athletics 2009
+27300	Saw
+27320	Saw 2
 27330	Blacklight: Tango Down
 27400	Dangerous High School Girls in Trouble!
 27600	MEVO & the Grooveriders
@@ -636,21 +1021,67 @@
 27920	Booster Trooper
 27940	Dead Horde
 28000	Kane & Lynch 2: Dog Days
+28019	Kane & Lynch 2: Dog Days Pre-Order
+28030	Kane & Lynch 2: Dog Days Preview
+28040	Kane & Lynch 2: Dog Days Lifestyle Preview
+28050	Deus Ex: Human Revolution
+28070	Deus Ex: Human Revolution Preview
+28080	Deus Ex: Human Revolution Review
+28090	Deus Ex: Human Revolution Demo
+28100	Deus Ex: Human Revolution - The Missing Link Preview
+29017	Blood Bowl 2 - Review
+29100	Osmos IGF Demo
+29110	Retro/Grade IGF Demo
 29120	Yumsters! 2: Around the World!
 29130	Musaic Box
 29140	Between IGF Demo
 29150	Mightier
 29160	Blueberry Garden
 29180	Osmos
+29190	Osmos Beta
+29500	City of Heroes: Architect Edition
+29520	Lineage
+29530	Lineage II: The Chaotic Throne
+29550	City of Heroes
+29590	Lineage II: The Chaotic Throne
+29640	Aion
+29650	Aion Collectors Edition
+29660	Aion
+29670	Aion Collectors Edition
+29680	City of Heroes: Going Rogue 
+29690	City of Heroes: Going Rogue EU
+29720	Guild Wars
+29730	City of Heroes Test
 29800	Caster
 29900	Dark Sector
+30000	Tom Bui Test App
+31100	Wallace & Gromit Ep 1: Fright of the Bumblebees
+31110	Wallace & Gromit Ep 2: The Last Resort
+31120	Wallace & Gromit Ep 3: Muzzled!
+31130	Wallace & Gromit Ep 4: The Bogey Man
 31170	Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal
+31180	Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay 
+31189	Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay
+31190	Tales of Monkey Island: Chapter 3 - Lair of the Leviathan 
+31199	Tales of Monkey Island: Chapter 3 - Lair of the Leviathan
+31200	Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood 
+31209	Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood
+31210	Tales of Monkey Island: Chapter 5 - Rise of the Pirate God
+31219	Tales of Monkey Island: Chapter 5 - Rise of the Pirate God
+31220	Sam & Max 301: The Penal Zone
+31230	Sam & Max 302: The Tomb of Sammun-Mak
+31240	Sam & Max 303: They Stole Max's Brain!
+31250	Sam & Max 304: Beyond the Alley of the Dolls
+31260	Sam & Max 305: The City that Dares not Sleep
 31270	Puzzle Agent
 31280	Poker Night at the Inventory
 31290	Back to the Future: Ep 1 - It's About Time
 31300	Tunnel Rats 1968
+31410	Zombie Driver
 31500	Coil
 31700	Iron Grip: Warlord
+31730	Iron Grip: Warlord - DEV
+31740	Iron Grip: Marauders
 31800	Nancy Drew: Danger By Design
 31810	Nancy Drew: Last Train to Blue Moon Canyon
 31820	Nancy Drew: The Haunted Carousel
@@ -666,14 +1097,21 @@
 31920	Nancy Drew: The Phantom of Venice
 31930	Nancy Drew: The White Wolf of Icicle Creek
 31980	Nancy Drew: Ransom of the Seven Ships 
+31989	Nancy Drew: Ransom of the Seven Ships
 32000	Raycatcher
+32100	Elements
 32110	Luxor Mahjong
 32120	Chainz 2: Relinked
+32130	Penguins' Journey
 32140	Midnight Mysteries: The Edgar Allan Poe Conspiracy
 32150	Everyday Genius: SquareLogic
 32160	Zombie Bowl-O-Rama
+32170	LUXOR Adventures
+32180	Samantha Swift and the Mystery from Atlantis
+32190	Becky Brogan and the Mystery of Meane Manor
 32200	Metal Drift
 32310	Indiana Jones and the Last Crusade
+32320	Lego Star Wars 2
 32330	LEGOⓇ Indiana Jones™: The Original Adventures
 32340	Loom
 32350	Star Wars Starfighter
@@ -688,9 +1126,13 @@
 32440	Lego Star Wars Saga
 32450	Lego Indiana Jones 2
 32460	Monkey Island 2: Special Edition
+32469	Monkey Island 2 Special Edition: LeChuck's Revenge Pre-Order
 32470	Star Wars: Empire at War Gold
+32480	Monkey Island Special Edition - Steamworks Testing
+32490	Monkey Island 2: Special Edition Press Review
 32500	Star Wars: The Force Unleashed II
 32510	Lego Star Wars 3: The Clone Wars
+32520	Star Wars Generic Shooter 
 32610	Delta Force: Xtreme 2
 32620	Delta Force
 32630	Delta Force 2
@@ -699,6 +1141,8 @@
 32660	Delta Force: Xtreme
 32670	Delta Force: Black Hawk Down
 32680	Delta Force: Black Hawk Down - Team Sabre
+32690	Joint Operations: Typhoon Rising
+32700	Joint Operations: Escalation
 32710	Armored Fist 3
 32720	F-16 Multirole Fighter
 32730	F-22 Lightning 3
@@ -706,28 +1150,50 @@
 32750	Comanche 4
 32760	Tachyon: The Fringe
 32770	Joint Operations: Combined Arms
+32780	Delta Force Xtreme 2 - Multiplayer Edition
 32800	The Lord of the Rings: War in the North
+32819	The Lord of the Rings: War in the North
+32820	Lord of the Rings: War of the North - Test Build
 32900	Restaurant Empire II
+33000	Rise of Nations Gold
 33100	Alien Shooter
 33110	Alien Shooter: Revisited
 33120	Alien Shooter 2: Reloaded
 33130	Zombie Shooter
 33180	Zombie Shooter 2
+33200	Cesar Millan's Dog Whisperer
 33210	Dawn of Discovery
+33220	Tom Clancy's Splinter Cell: Conviction
 33230	Assassin's Creed II
 33250	Anno 1404
+33260	Heroes Over Europe
+33270	Cloudy with a Chance of Meatballs
+33280	James Cameron’s Avatar™: The Game
+33289	James Cameron’s Avatar™: The Game
+33300	Massive Launcher Test
 33320	Prince of Persia: The Forgotten Sands
+33330	R.U.S.E. Preview
 33340	Dawn of Discovery - Venice
+33349	Dawn of Discovery - Venice
 33350	Anno 1404: Venice
+33359	Anno 1404 - Venice
+33380	R.U.S.E. Demo
 33390	Zeit²
+33410	Zeit² Review
 33420	Call of Juarez: The Cartel
 33440	Driver San Francisco
 33460	From Dust
+33500	Hired Guns: The Jagged Edge
+33510	Officers: World War II
 33520	Tropico
+33530	Tropico 2: Pirate Cove
 33540	Dawn of Magic 2
+33549	Dawn of Magic 2
 33550	Time of Shadows
+33559	Time of Shadows
 33570	Patrician III
 33580	The Great Art Race
+33590	Dark Star One
 33600	Broken Sword 2 - the Smoking Mirror: Remastered
 33610	Broken Sword 3 - the Sleeping Dragon
 33620	Crash Time III
@@ -735,68 +1201,136 @@
 33660	Ziro
 33670	Disciples III: Renaissance
 33680	Eversion 
+33700	Paws & Claws: Pampered Pets
+33710	Paws & Claws: Pet School
+33720	Paws & Claws: Pet Vet
 33730	18 Wheels of Steel: Extreme Trucker
+33740	John Deere: Drive Green
 33750	Prison Tycoon 4: Supermax
+33760	Amelia Earhart
 33770	Drakensang The River of Time
 33780	Drakensang 2 - Phileasson's Secret
 33790	Elizabeth Find M.D. - Diagnosis Mystery - Season 2
 33900	Arma 2
+33910	Arma 2
 33930	Arma 2: Operation Arrowhead
+33940	ARMA 2 beta
 33950	The Fish Fillets 2
 33980	Pound of Ground
 33990	AlternativA
+34000	Football Manager 2010
+34009	Football Manager 2010
 34010	Alpha Protocol
+34019	Alpha Protocol
+34020	Football Manager 2010 Korean
 34030	Napoleon: Total War
+34070	Napoleon: Total War Dev
+34130	Aliens vs Predator Demo
+34150	Napoleon: Total War Preview
 34180	Vancouver 2010: The Official Video Game of the Olympic Winter Games
 34190	Sonic and SEGA All Stars Racing
+34210	Aliens vs Predator Press - DX9
+34220	Football Manager 2011
+34229	Football Manager 2011
+34230	Football Manager 2011 Korean
+34250	Total War: Shogun 2 Dev
+34270	SEGA Genesis & Mega Drive Classics
+34290	Napoloeon: Total War - Beta
+34320	Football Manager 2011 Russian
+34330	Total War: SHOGUN 2
+34370	Total War: Shogun 2 – Fall of the Samurai Closed Beta
 34410	Death to Spies: Moment of Truth
 34420	XIII Century
+34440	Sid Meier's Civilization IV
+34450	Sid Meier's Civilization IV: Warlords
+34460	Sid Meier's Civilization IV: Beyond the Sword
 34500	Light of Altair
 34600	Order of War
+34609	Order of War
 34630	Massive Assault
 34640	Massive Assault: Phantom Renaissance
 34650	Massive Assault Network 2
+34670	Order of War: Challenge
+34700	Grand Heist
 34800	Chronicles of Mystery: The Scorpio Ritual
 34810	Project Freedom
 34820	Combat Wings: Battle of Britain
 34830	Sniper: Ghost Warrior
+34860	MotorM4X: Offroad Extreme
 34870	Sniper Ghost Warrior 2
 34900	Bad Rats
 34920	Razor2: Hidden Skies
 35000	Mini Ninjas
+35010	Batman: Arkham Asylum
+35019	Batman: Arkham Asylum
 35030	Championship Manager 2010
 35070	Flora's Fruit Farm
+35120	Just Cause 2 Preview
 35130	Lara Croft and the Guardian of Light
 35140	Batman: Arkham Asylum GOTY Edition
+35160	Eidos OS Sample
+35200	A Vampyre Story
 35300	Warfare
 35310	Clutch
 35320	Insane 2
 35420	Killing Floor Mod: Defence Alliance 2
 35450	Rising Storm/Red Orchestra 2 Multiplayer
 35460	The Ball
+35470	The Ball Beta
 35480	Dwarfs!?
+35500	Cities XL - Limited Edition
+35509	CitiesXL
+35510	Cities XL
+35520	Cities XL - Demo
 35600	Big Brain Wolf
 35700	Trine
 35720	Trine 2
 35800	BRAINPIPE: A Plunge to Unhumanity
+35900	Nullbreaker
 36000	Foreign Legion: Buckets of Blood
 36100	Tradewinds Classic
+36110	Tradewinds 2
+36120	Tradewinds Legends
 36130	Tradewinds Caravans
+36140	Tradewinds Odyssey
 36150	Westward
+36160	Westward 2
+36170	Westward 3
 36180	Cake Mania
+36190	Cake Mania 2
+36200	Cake Mania 3
 36210	Monster Mash
+36220	Slyder Adventures
+36230	Snail Mail
 36240	Kuros
+36250	Glyph
+36260	Glyph 2
 36270	Granny in Paradise
+36280	Super Granny 3
+36290	Super Granny 4
 36300	Cake Mania Main Street
 36310	Westward IV
 36320	Iron Roses
+36330	Super Granny 5
+36340	Cake Mania: Lights, Camera, Action!
+36350	Cookie Domination
+36360	Cake Mania: To the Max!
+36370	Westward: Kingdoms
+36600	Jade Dynasty
+36610	Perfect World International 
 36620	Forsaken World 
+36630	Rusty Hearts
+36700	The Scourge Project: Episode 1 and 2
+36720	The Scourge Project: Episode 1 and 2 Review
 36900	Angle of Attack
+36909	Angle of Attack
 36910	All Aspect Warfare
+36919	All Aspects of Warfare
 37000	The Void
 37010	Ninja Blade
 37030	UFO: Extraterrestrials Gold
 37100	Aztaka
+37200	Chessmaster
 37210	Chocolatier: Decadence by Design
 37220	Cooking Dash
 37230	Diaper Dash
@@ -811,17 +1345,35 @@
 37320	NightShift Code
 37330	NightShift Legacy
 37340	Fitness Dash
+37350	Parking Dash
 37360	Mahjong Roadshow
 37370	TriJinx
 37380	Valerie Porter
 37390	Gemini Lost
 37400	Time Gentlemen, Please!
+37420	Ben There, Dan That!
 37500	Magnetis
 37600	Windosill
 37700	Darkest of Days
+37708	Darkest of Days
 37800	QuantZ
+37900	Boggle
+37910	Battleship
+37920	Family Feud
+37930	Family Feud 2
+37940	Family Feud 3: Dream Home
+37950	Family Feud 4
 37960	Jewel Quest
+37970	Jewel Quest 2
+37980	Jewel Quest 3
+37990	Jewel Quest Mysteries
 38000	Mahjong Quest
+38010	Mahjong Quest 2
+38020	Mahjong Quest 3
+38030	Jo Jo's Fashion Show
+38040	Jo Jo's Fashion Show 2
+38050	Risk
+38060	Risk II
 38070	Coconut Queen
 38080	Build-A-Lot
 38090	Build-A-Lot 2
@@ -835,8 +1387,13 @@
 38170	Cradle of Rome
 38180	Cradle of Persia
 38190	Romance of Rome
+38200	Raven Squad
+38209	Raven Squad
 38210	Roogoo
+38220	Section 8
+38229	Section 8
 38230	Hotel Giant 2
+38240	Horrid Henry
 38400	Fallout
 38410	Fallout 2
 38420	Fallout Tactics
@@ -844,27 +1401,57 @@
 38440	Sacrifice
 38450	MDK
 38460	MDK 2
+38480	Earthworm Jim
 38490	Earthworm Jim 2
+38510	The Warriors: Street Brawl
+38520	Days of Thunder Arcade
+38530	Top Gun
+38540	Shooter
 38600	Faerie Solitaire
 38700	Toki Tori
 38720	RUSH
 38740	EDGE
+38800	CrimeCraft: Premium Edition
+38810	Crimecraft: Standard Edition
+38820	Crimecraft: BLEEDOUT
 38830	CrimeCraft GangWars
+38900	Rhythm Zone
 39000	Moonbase Alpha
+39010	2.5 Platform
+39020	3.0 Platform
 39110	Season of Mystery : The Cherry Blossom Murders
 39120	RIFT
 39140	FINAL FANTASY VII
 39150	FINAL FANTASY VIII
 39160	Dungeon Siege III
+39170	Deus Ex: Human Revolution
+39189	Dungeon Siege 3
 39190	Dungeon Siege
 39200	Dungeon Siege 2
 39210	FINAL FANTASY XIV: A Realm Reborn
+39220	[Preview] Dungeon Siege III
+39240	[Review] Dungeon Siege III
+39250	FINAL FANTASY XI: Ultimate Collection - Abyssea Edition
+39260	FINAL FANTASY XI: Ultimate Collection - Abyssea Edition
+39300	Chameleon Gems
+39310	Concentration
+39320	EtchASketch
+39330	Fishing Craze
+39340	Letter Lab
+39350	Nertz Solitaire
+39360	Pets Fun House
+39370	Xango Tango
+39380	Emoticons
 39500	Gothic 3
 39510	Gothic II: Gold Edition
 39520	The Guild Gold Edition
+39530	Painkiller: Black Edition
 39540	SpellForce: Platinum Edition
 39550	SpellForce 2: Gold Edition
 39560	Painkiller: Resurrection
+39600	Agatha Christie: And then there were None
+39610	Agatha Christie: Evil under the Sun
+39620	Agatha Christie: Murder on the Orient Express
 39630	AquaNox
 39640	AquaNox 2: Revelation
 39650	The Guild II
@@ -872,57 +1459,100 @@
 39670	Chaser
 39680	The Guild II: Renaissance
 39690	ArcaniA
+39710	Line Rider 2: Unbound
 39800	Nation Red
 39900	Coniclysm
+40000	Fallen Earth
 40100	Supreme Commander 2
+40120	Supreme Commander 2 Beta
+40150	GPGTestApp001
 40200	ItzaBitza
 40210	ItzaZoo
 40300	Risen
+40309	Risen
 40320	Rush for Berlin: Gold Edition
 40330	Secret Files: Tunguska
 40340	Secret Files: Puritas Cordis
 40350	Lost Horizon
+40370	Emergency 2012
 40380	Nail'd
 40390	Risen 2 - Dark Waters
 40400	AI War: Fleet Command
 40420	Tidalis
 40500	Sacraboar
+40600	Fort Zombie
 40700	Machinarium
+40709	Machinarium Pre-Order
 40720	Samorost 2
 40800	Super Meat Boy
+40809	Super Meat Boy
+40900	Borderlands Press Review 2
+40920	NBA 2K10
 40930	The Misadventures of P.B. Winterbottom
 40950	Stronghold HD
+40960	Stronghold 2
 40970	Stronghold Crusader HD
+40980	Stronghold Legends
+40990	Mafia
 41000	Serious Sam HD: The First Encounter
+41009	Serious Sam HD Pre-order
+41010	Serious Sam HD: The Second Encounter
+41030	Serious Sam HD: The Second Encounter Demo
 41050	Serious Sam Classic: The First Encounter
 41060	Serious Sam Classic: The Second Encounter
 41070	Serious Sam 3: BFE
+41085	Serious Sam 3 Dedicated Server
 41100	Hammerfight
+41200	Eufloria - Beta
+41210	Eufloria
 41300	Altitude
 41400	Doom Rails
 41500	Torchlight
+41509	Torchlight
+41530	Torchlight Dev
 41600	Earthworm Jim 3D
+41610	Descent: FreeSpace - The Great War
+41620	Freespace 2
+41630	Descent 3
 41660	Tommy Tronic
 41680	Death and the Fly
 41700	S.T.A.L.K.E.R.: Call of Pripyat
+41730	Ion Assault
 41740	Cargo! - The quest for gravity
+41750	The Rockin' Dead
 41800	Gratuitous Space Battles
 41900	The Bard's Tale
 42000	Trino
+42100	Lead and Gold - Gangs of the Wild West Beta
 42120	Lead and Gold - Gangs of the Wild West
 42140	Hamilton's Great Adventure
+42150	Upcoming Fatshark Game
 42160	War of the Roses
 42170	Krater
 42200	Nancy Drew Dossier: Resorting to Danger!
 42210	Nancy Drew: Secrets can Kill
 42220	Nancy Drew: The Captive Curse
 42230	Nancy Drew: Trail of the Twister
+42310	Sixense Motion Creator
 42500	DogFighter
+42600	Siberia
+42640	Blur
 42650	Transformers: War for Cybertron
+42660	Shrek Forever After 
 42670	Singularity
+42680	Call of Duty: Modern Warfare 3
+42690	Call of Duty: Modern Warfare 3 - Multiplayer
+42699	Call of Duty: Modern Warfare 3
 42700	Call of Duty: Black Ops
+42710	Call of Duty: Black Ops - Multiplayer
+42730	James Bond: Blood Stone
+42749	Call of Duty: Black Ops
+42800	East India Company: Privateer
 42810	For The Glory
+42820	East India Company: Battle of Trafalgar
+42830	Achtung Panzer - Kharkov 1943
 42850	Arsenal of Democracy
+42870	Rise of Prussia
 42890	Sword of the Stars Complete Collection
 42910	Magicka
 42920	The Kings' Crusade
@@ -930,34 +1560,52 @@
 42940	Elven Legacy: Siege
 42950	Elven Legacy: Ranger
 42960	Victoria II
+42970	Victoria II - Demo
 42980	Victoria: Revolutions
 42990	Sword of the Stars II: Enhanced Edition
 43000	Front Mission Evolved
 43100	World of Zoo
 43110	Metro 2033
+43129	Metro 2033
+43150	THQ Digital UK Game A
+43160	Metro: Last Light
 43190	The Haunted: Hells Reach
 43500	M.U.D. TV
 43600	Nancy Drew: Warnings at Waverly Academy
+43800	Death Tank
+44000	2XL Supercross
+44010	2XL Supercross Dev
 44100	Super Laser Racer
 44200	Galcon Fusion
 44310	F1 2010™
+44320	DiRT 3
 44340	Operation Flashpoint: Red River
 44350	GRID 2
 44360	F1 2011
+44380	Central Technology Sandbox
 44600	GTR - FIA GT Racing Game
+44610	Lisi
 44620	STCC II
+44630	RACE 07 - Formula RaceRoom Add-On
+44640	The STCC II Pack
 44650	GT Power Expansion
 44660	The Retro Expansion
 44670	The WTCC 2010 Pack
 44680	Race Injection
 44690	GT Legends
+44700	Race 07 Beta
+44710	The Retro Pack Beta
 45000	Sol Survivor
 45100	Secret of the Magic Crystal
+45200	Oasis
+45210	Oasis Demo
 45300	Wings of Prey
 45400	Fortix
 45410	Ignite
+45420	ACS
 45450	Fortix 2
 45500	Clickr
+45600	0 Day Attack on Earth
 45700	Devil May Cry 4
 45710	Dark Void
 45720	Lost Planet: Extreme Condition - Colonies Edition
@@ -966,13 +1614,22 @@
 45750	Lost Planet 2
 45760	Ultra Street Fighter IV
 45770	Dead Rising 2: Off the Record
+45900	CID The Dummy
 46000	Bob Came in Pieces
+46100	Pulse
 46200	A.I.M. Racing
+46210	4x4 Hummer
+46220	Classic Car Racing
+46230	Streets of Moscow
+46240	1C Studios Test Application
 46250	NecroVisioN: Lost Company
 46260	Star Wolves 3: Civil War
 46270	Star Wolves
 46280	Star Wolves 2
 46290	Theatre of War
+46300	canceled
+46320	Space Rangers
+46330	Space Rangers 2: Reboot
 46340	Theatre of War 2: Africa 1943
 46350	Real Warfare
 46360	Theatre of War 2: Kursk 1943 
@@ -984,11 +1641,14 @@
 46430	Chrome: Specforce
 46440	Future Wars
 46450	Grotesque Tactics: Evil Heroes
+46460	Scratches: Director's Cut
+46470	Grotesque Tactics: Evil Heroes - Dev
 46480	Still Life
 46490	Still Life 2
 46500	Syberia
 46510	Syberia 2
 46520	Wasteland Angel
+46530	Wasteland Angel - Press Preview
 46540	Trapped Dead
 46550	Post Mortem
 46560	Robin Hood
@@ -1002,11 +1662,16 @@
 46750	Dark Fall: Lost Souls
 46760	Ironclads: Schleswig War 1864
 46770	Making History II: The War of the World
+46780	Steel Fury
 46790	Armada 2526
+46800	Darkness Within 2: The Dark Lineage
+46820	Rise of Flight: Iron Cross Edition
 46830	Ironclads: Anglo Russian War 1866
 46840	Ironclads: Chincha Islands War 1866
 46850	Zombie Pirates
+46860	Deep Black
 47000	4 Elements
+47100	Garden Defense
 47110	Escape from Paradise
 47120	Escape from Paradise 2
 47130	Book of Legends
@@ -1015,6 +1680,7 @@
 47500	Mishap: An Accidental Haunting
 47520	The Otherside
 47540	Puzzle Quest 2
+47550	DIG DUG
 47570	Mishap 2: An Intentional Haunting
 47700	Command and Conquer 4: Tiberian Twilight
 47730	Dragon Age: Origins - Awakening
@@ -1022,13 +1688,22 @@
 47790	Medal of Honor(TM) Single Player
 47800	RISK Factions
 47810	Dragon Age: Origins - Ultimate Edition
+47830	Medal of Honor(TM) Multiplayer
+47850	FIFA Manager 11
 47870	Need for Speed: Hot Pursuit
+47889	Battlefield Bad Company 2: Vietnam Pre-order
 47890	The Sims(TM) 3
+47900	Dragon Age II
 47920	Shift 2 Unleashed
 48000	LIMBO
 48110	Silent Hunter 5: Battle of the Atlantic
+48120	The Settlers 7: Paths to a Kingdom
+48129	The Settlers 7: Paths to a Kingdom
 48150	Voodoo Dice
+48160	Tom Clancy's H.A.W.X. 2
+48180	Tom Clancy's H.A.W.X. 2
 48190	Assassin's Creed Brotherhood
+48210	The Settlers 7: Paths to a Kingdom - Gold Edition
 48220	Might & Magic: Heroes VI
 48240	Anno 2070
 48700	Mount & Blade: Warband
@@ -1036,24 +1711,62 @@
 48800	Ship Simulator Extremes
 48900	Saira
 48950	Greed Corp
+48960	ValveTestApp48960
 49000	Hotel Dash
+49010	Avenue Flo
+49020	Cooking Dash 2
+49030	Doggie Dash
+49040	Egg vs Chicken
+49050	Shark Island
+49060	Pirate Poppers
+49070	Sandscript
+49080	Subway Scramble
+49090	Spellagories
 49300	Commander: Conquest of the Americas
 49320	Woody Two-Legs Attack of the Zombie Pirates
 49330	Pirates of Black Cove
+49400	Magic: The Gathering - Duels of the Planeswalkers
+49450	Magic: The Gathering - Duels of the Planeswalkers PR Build
 49470	Magic: The Gathering — Duels of the Planeswalkers 2012
+49500	Cedar
 49520	Borderlands 2
 49540	Aliens: Colonial Marines
+49560	Gearbox Labs
 49600	Beat Hazard
+49700	Stargate Resistance
 49800	Flight of the Icarus
 49810	CreaVures
 49900	Plain Sight
+49909	Plain Sight
 50000	Nimbus
+50100	Sid Meier's Civilization V
+50120	MLB 2K10
 50130	Mafia II
+50160	Mafia II - Demo (Secured)
+50170	TEAM1 - Age Rating
+50180	TEAM1 - Compat Testing
+50190	TEAM1 - External QA
+50220	TEAM1 - External QA2
+50240	Mafia II - Full Preview
+50260	Mafia II - Exclusive Review
 50300	Spec Ops: The Line
+50310	MLB 2K11
+50400	Mafia II - JAPAN
+50409	Mafia II
+50420	TEAM1 - DLC Age Rating
+50470	Mafia II Pre-order
+50471	Mafia II Digital Deluxe Pre-order
+50480	Mafia II - Demo 2
 50510	Burn Zombie Burn
+50600	Darksiders - Ratings
 50620	Darksiders
+50640	Darksiders
 50650	Darksiders II
+50670	Darksiders 2 Ratings Build
+50800	i'm not alone
+50810	Ikaro
 50820	Max and the Magic Marker
+50900	Professor FizzWhizzle
 50910	PF and the Molten Mystery
 50920	Hidden Expedition Amazon 
 50930	Hidden Expedition Everest
@@ -1067,59 +1780,143 @@
 51010	My Tribe 
 51020	Unwell Mel
 51030	Atlantis Sky Patrol 
+51040	Fairway Solitaire 
+51050	Mystery Case Files: Dire Grove
 51060	Drawn: The Painted Tower
+51070	Treasure Seekers: Visions of Gold ™
+51080	Treasure Seekers: The Enchanted Canvases
+51090	Treasure Seekers: Follow the Ghosts
 51100	Tactical Intervention
+51200	SteamTest App
+51210	Garage Inc.
+51220	KULA BLOX
+52003	Mac Portal
 55000	Flotilla
 55020	Air Forte 
 55040	Atom Zombie Smasher 
 55100	Homefront
 55110	Red Faction: Armageddon
+55130	HOMEFRONT Demo
 55140	MX vs. ATV Reflex
 55150	Warhammer 40,000 Space Marine
+55160	Red Faction: Armageddon - Ratings Build
+55180	HOMEFRONT [Dev]
+55190	HOMEFRONT [Alpha]
+55200	MX vs ATV - Ratings Build
+55210	HOMEFRONT - Japanese
 55230	Saints Row: The Third
+55250	Saints Row: The Third - Ratings Build
+55319	Company of Heroes 2 Preorder
+55320	Red Faction: Armageddon - Demo
+55330	Red Faction: Armageddon - Press Preview
+55360	Saints Row: The Third - Press Build
 55370	Saints Row: The Third - Initiation Station
+55430	Warhammer 40,000: Space Marine Press
+55450	Warhammer 40,000: Space Marine Review
+56400	Warhammer® 40,000™: Dawn of War® II – Retribution™
 57000	NyxQuest
+57100	Quarrel
 57200	Puzzle Dimension
 57300	Amnesia: The Dark Descent
+57400	Batman: Arkham City™
+57419	Batman: Arkham City™
 57600	Tropico 3: Absolute Power
 57620	Patrician IV: Steam Special Edition
 57640	Broken Sword 1 - Shadow of the Templars: Director's Cut
 57650	DUNGEONS - Steam Special Edition
+57660	Port Royale
+57670	Boulder Dash
 57680	The First Templar
 57690	Tropico 4
 57700	Who's That Flying?!
 57730	Patrician IV: Rise of a Dynasty
 57740	Jagged Alliance - Back in Action
 57800	Doc Clock: The Toasted Sandwich of Time
+57810	Zumfelkin
 57900	Duke Nukem Forever
+57919	Duke Nukem Forever Pre-Order
+57950	Duke Nukem Forever JP
+57970	Duke Nukem Forever 
+58000	TG09
 58200	Jolly Rover
 58230	MacGuffin's Curse
+58300	System Protocol One
 58400	Turba
+58500	Pro Cycling Manager Season 2010
+58510	Cities XL 2011
 58520	Blood Bowl: Legendary Edition
+58540	Divinity II - The Dragon Knight Saga
 58550	A Game of Thrones - Genesis
 58560	Runaway: A Twist of Fate
 58570	The Next BIG Thing
 58610	Wargame: European Escalation
+58620	Wargame: European Escalation - Beta
+58700	Women's Murder Club: Death in Scarlet
+58710	Agatha Christie: Death on the Nile
+58720	Buried in Time
+58730	Treasures of the Serengeti
+58740	Women's Murder Club: A Darker Shade of Grey
+58750	Women's Murder Club: Twice in a Blue Moon
+58760	Paradise Quest
+58770	Agatha Christie: Dead Man's Folly
+58780	Agatha Christie: Peril at End House
+58900	Hidden Expedition: Devil's Triangle
+58910	Be Rich!
+58920	Be Richer!
+58930	The Serpent of Isis ™
+58940	Haunted Hotel
+58950	Haunted Hotel 2: Believe the Lies
+58960	Azada: Ancient Magic
+58970	Lost in the City
+58980	Flux Family Secrets
+58990	Hidden In Time: Mirror Mirror
+59000	Puppet Show: Mystery of Joyville
+59010	Dark Tales: Edgar Allan Poe's Murder on the Rue Morgue
 60340	LUXOR: 5th Passage 
 60350	Glowfish
 60600	ProtoGalaxy
 60700	Power Of Defense
 60800	Numen: Contest of Heroes
+60900	Galactic Arms Race (Test)
+61000	DCS: Black Shark
+61010	Digital Combat Simulator: A-10C Warthog
 61100	Lucid
 61220	Battle: Los Angeles
+61230	Red Bull X-Fighters
+61300	Fractal
 61310	Fractal: Make Blooms Not War
+61400	Sword of Fargoal
 61500	Age of Wonders
 61510	Age of Wonders 2
 61520	Age of Wonders: Shadow Magic
+61530	Age of Wonders: Trilogy Soundtrack
 61600	Zen Bound® 2
 61700	Might & Magic: Clash of Heroes
 61730	Critter Crunch
+61800	AMD Driver Updater, Vista and 7, 32 bit
+61810	AMD Driver Updater, Vista and 7, 64 bit
+61820	AMD Driver Updater, XP, 32 bit
+61830	AMD Driver Updater, XP, 64 bit
 62000	Flight Control HD
 62100	Chime
+62109	Chime
+62110	Chime Demo
 63000	HOARD
+63100	Crazy Machines 2.5
 63110	Alter Ego
 63200	Monday Night Combat
+63209	Monday Night Combat
+63230	Monday Night Combat Development
+63300	Empire Earth II
+63310	Empire Earth II: Art of Supremacy
+63320	Ground Control II
+63330	Free Running
+63340	Lords of Magic: Special Edition
+63350	Lords of the Realm: Royal Edition
+63360	Lords of the Realm III
+63370	Empire Earth III
 63380	Sniper Elite V2
+63400	Vanilla
 63500	Swords and Soldiers HD
 63600	realMyst
 63610	Riven
@@ -1133,13 +1930,27 @@
 63800	Delve Deeper
 63900	Fantasy Wars
 63910	King's Bounty: Crossworlds
+63919	King's Bounty: Crossworlds Pre-order
+63930	You Are EMPTY
 63940	Men of War: Vietnam
 63950	IL-2 Sturmovik: Cliffs of Dover
 63960	Theatre of War 3: Korea
 64000	Men of War: Assault Squad
+64010	Men of War: Assault Squad - Dev
+64020	Men of War: Assault Squad
+65000	2 Fast Driver
+65010	Need For Russia 
+65030	City Bus
 65070	Ride 'em Low
 65080	Kaptain Brawe
+65100	Demolition Company
+65120	App Id 65120
+65130	App Id 65130
+65140	App Id 65140
+65150	Ship Simulator
+65160	Bus Simulator
 65200	Dive to the Titanic
+65260	Engine Driver: Drive a Steam Train
 65270	Demolition Company Gold
 65300	Dustforce
 65400	Archon:Classic
@@ -1154,17 +1965,28 @@
 65720	Arma 2: Private Military Company
 65730	Take On Helicopters
 65740	Carrier Command: Gaea Mission
+65750	Pat and Mat Demo
+65770	AlternativA Demo
 65780	Arma: Gold Edition
 65790	Arma: Cold War Assault
 65800	Dungeon Defenders
 65930	The Bureau: XCOM Declassified
+65950	NBA 2K11
+65960	Sid Meier's Civilization V - XP1
 65980	Sid Meier's Civilization: Beyond Earth
+66020	TBXD GC Demo
 67000	The Polynomial
+67200	Mafia II JA age rating
+67240	Mafia II - PAX
+67300	Mafia II Joe's Adventures Preview
 67370	The Darkness II
+67390	Scanner Ext.
+67680	Spec Ops: The Line Dev
 70000	Dino D-Day
 70100	Hacker Evolution
 70110	Hacker Evolution - Untold
 70120	Hacker Evolution Duality
+70150	Hacker Assassin Beta
 70200	Governor of Poker 2
 70210	Governor of Poker 2: Premium Edition
 70300	VVVVVV
@@ -1178,73 +2000,134 @@
 70660	Worms Pinball
 70900	Star Ruler
 71000	Evochron Mercenary
+71100	Football Manager 2011 Press
+71130	Football Manager 2011 Review
+71140	Total War: Shogun 2 Veteran Group
+71180	Total War: Shogun 2 Review
+71200	Football Manager 2011 Beta
+71210	Total War: Shogun 2 - Fall of the Samurai Preview
 71230	Crazy Taxi
 71240	SEGA Bass Fishing
 71250	Sonic Adventure DX
 71260	Space Channel 5: Part 2
+71270	Football Manager 2012
+71290	Football Manager 2012 Beta
+71300	Football Manager 2012 Review
+71310	Football Manager 2012 Korean
+71320	Football Manager 2012 Russian
+71330	Football Manager 2012 Turkish
 71340	Sonic Generations
+71350	Total War: Caveman
+71390	Virtua Tennis 4
+71420	London 2012: The Official Video Game of the Olympic Games
 72000	Closure
 72200	Universe Sandbox
+72300	Breach
 72400	Clones
 72500	Arcadia
+72510	Arcadia - Demo
+72520	Arcadia - Beta
+72530	Arcadia Beta
+72600	nx1
+72720	Fallout: New Vegas Beta Test
+72790	Prey2
 72850	The Elder Scrolls V: Skyrim
+72869	The Elder Scrolls V: Skyrim Preorder Ad App
 72900	Winter Voices
+73000	Lionheart - Kings' Crusade Demo
 73010	Cities in Motion
+73019	Cities in Motion Pre-order
 73020	Majesty 2 Collection
 73060	Defenders of Ardania
+73080	Crusader Kings 2 Beta
+73100	Dreamlords
+73150	Magicka Test Build
 73170	Darkest Hour: A Hearts of Iron Game
 73190	Pride of Nations
+73200	Sengoku - Beta
 73210	Sengoku
 73220	Supreme Ruler Cold War
+73230	Majesty Gold HD
+77000	PrimeTest
 78000	Bejeweled 3
+78020	Bejeweled 3 Dev
 80000	APOX
 80200	Fate of the World
+80220	Fate of the World Beta app
 80300	Puzzle Bots
 80310	Gemini Rue
 80330	The Blackwell Legacy
 80340	Blackwell Unbound
 80350	Blackwell Convergence
 80360	Blackwell Deception
+90100	Hegemony: Philip of Macedon
 90200	Farming Simulator 2011
 90400	Blue Toad Murder Files - The Mysteries of Little Riddle
 90500	Guardians of Graxia
+90530	Battle for Graxia
+90800	Crasher
 91100	SkyDrift
 91200	Anomaly Warzone Earth
 91310	Dead Island
+91320	Who Wants to Be a Millionaire
 91330	Iron Front : Liberation 1944
 91600	Sanctum
 91700	E.Y.E: Divine Cybermancy
+91710	E.Y.E. - Press Build
 91800	Cloning Clyde
 91810	Ancients of Ooga
 91900	Post Apocalyptic Mayhem
+91910	Post Apocalyptic Mayhem - Press Preview
 92000	Hydrophobia: Prophecy
+92010	Hydrophobia - Press Preview
 92100	DETOUR
 92200	Gundemonium Recollection
 92210	Hitogata Happa
 92220	GundeadliGne
 92300	A.R.E.S.
 92400	B.U.T.T.O.N.
+92500	PC Gamer
 92600	Xotic
 92700	Shadow Harvest: Phantom Ops
 92800	SpaceChem
 92900	Agricultural Simulator 2011: Extended Edition
 93200	Revenge of the Titans
 94000	Dinner Date
+94100	Snoopy: Flying Ace
 94200	Jamestown
 94300	The Dream Machine
+94310	The Dream Machine: Chapter 2
 94400	Nidhogg
+94500	Back to the Future: Ep 2 - Get Tannen!
+94510	Back to the Future: Ep 3 - Citizen Brown
+94520	Back to the Future: Ep 4 - Double Visions
+94530	Back to the Future: Ep 5 - OUTATIME
 94590	Puzzle Agent 2
+94600	Hector: Ep 1
+94610	Hector: Ep 2
 94620	Hector: Ep 3
 95000	Super Splatters
+95100	Swimming Under Clouds
+95200	Trainyard
 95300	Capsized
 95400	ibb & obb
+95500	Your Doodles Are Bugged!
+95600	Neverdaunt:8bit
 95700	The Cat and the Coup
+95800	The Avengers
 95900	Air Conflicts - Secret Wars
 96000	The Tiny Bang Story
 96100	Defy Gravity
 96200	Steel Storm: Burning Retribution
+96210	Steel Storm - Dedicated Server
 96300	Ravaged Zombie Apocalypse
 96400	Shoot Many Robots
+96419	Shoot Many Robots Pre-Order
+96500	Depth Beta
+96700	Tales from Space: About a Blob
+96800	Nexuiz
+96819	Nexuiz Preorder
+96820	Nexuiz Benchmark
 96900	Slam Bolt Scrappers
 97000	Solar 2
 97100	Section 8: Prejudice
@@ -1257,20 +2140,46 @@
 98300	Toy Soldiers
 98400	Hard Reset
 98500	Naval Warfare
+98510	STORM: Frontline Nation
 98600	Demolition, Inc.
+98700	Pilot X
 98800	Dungeons of Dredmor
+98810	Dungeons of Dredmor - Beta
 98900	Alien Hallway
 99100	Dungeons & Dragons: Daggerdale
 99120	Yar's Revenge
+99130	Gamma World: Alpha Mutation
+99140	Baldur's Gate 2 - Complete
 99200	YOU DON'T KNOW JACK
 99300	Renegade Ops
 99400	Garshasp: The Monster Slayer
 99410	Garshasp: Temple of the Dragon
+99500	Train Simulator Development
+99510	Standalone Content
+99520	Zoo Park
+99530	App Id 99530
+99540	App Id 99540
+99550	App Id 99550
+99560	App Id 99560
+99570	App Id 99570
+99580	App Id 99580
+99600	Civ V SDK Source
+99650	FGame
 99700	NightSky
+99809	Dragon Age II
 99810	Bulletstorm
+99830	Crysis 2
+99890	Darkspore
 99900	Spiral Knights
 99910	Puzzle Pirates
+99920	Spiral Knights Preview
+99930	[Test] Puzzle Pirates
+100010	App Test 1
+100950	Mixcraft
+101999	Brady Guide Test Application
 102200	Runespell: Overture
+102210	Runespell: Overture - Press
+102300	WOT - DO NOT USE
 102400	Vertex Dispenser
 102500	Kingdoms of Amalur: Reckoning™
 102600	Orcs Must Die!
@@ -1283,26 +2192,37 @@
 104020	Storm in a Teacup
 104100	Inside a Star-filled Sky 
 104200	BEEP
+104330	Red Orchestra 2 Dev Beta
 104600	Portal 2 - The Final Hours
 104700	Super Monday Night Combat
 104900	ORION: Prelude
 105000	A New Beginning - Final Cut
 105100	Lume
+105200	Reign of Thunder (Beta)
+105220	Reign of Thunder (IC)
 105300	Critical Mass
+105400	Fable III
 105420	Ms. Splosion Man
+105430	Age of Empires Online
 105450	Age of Empires® III: Complete Collection
 105600	Terraria
 105700	Tobe's Vertical Adventure
 105800	PixelJunk Eden
 106000	The Cursed Crusade
+106010	Pandora Saga: Weapons of Balance
+107000	Gods & Heroes: Rome Rising
 107100	Bastion
 107200	Space Pirates and Zombies
 107300	Breath of Death VII 
 107310	Cthulhu Saves the World 
+107400	Arma 2: Free
 107410	Arma 3
+107430	Arma X: Anniversary Edition
 107600	Waves
 107800	Rochard
 107900	War Inc. Battlezone
+108000	US: Privateers
+108100	Adam's Venture Episode 1: The Search For The Lost Garden
 108110	Starpoint Gemini
 108200	Ticket to Ride
 108210	Memoir '44 Online
@@ -1313,28 +2233,45 @@
 108800	Crysis 2 Maximum Edition
 109200	Legend of Fae
 109400	MicroVolts Surge
+109410	Brawl Busters
 109500	Fowl Space
 109600	Neverwinter
 109700	Achron
+109800	ChrisWars: A C++ Adventure
+109900	Golfstar
+109920	Black Prophecy
+110200	Hamilton's Great Adventure Debug
 110400	inMomentum
 110500	Data Jammers: FastForward
 110600	Astro Tripper
 110610	Alien Zombie Megadeath
+110620	Mutant Storm Empire
 110630	Mutant Storm Reloaded
+110700	Grand Theft Auto Vice City RU
+110710	Midnight Club 2 RU
+110720	Grand Theft Auto San Andreas RU
 110800	L.A. Noire
+110900	Pieterw App 1
 111000	The Clockwork Man
 111010	The Clockwork Man: The Hidden World
 111100	Snuggle Truck
+111200	Planck
 111300	Smash Cars
 111400	Bunch Of Heroes
 111600	Serious Sam Double D XXL
+111700	Nuclear Dawn Staging
+111720	Nuclear Dawn - Beta (post release)
+111730	Nuclear Dawn - Beta: Dedicated Server (post release)
 111800	Blocks That Matter
 111900	Guardians of Middle-earth
 112100	Avadon: The Black Fortress
+113000	Monaco WIP
 113020	Monaco
 113200	The Binding of Isaac
 113400	APB Reloaded
 113420	Fallen Earth
+113800	ValveTestApp113800
+113900	World of Battles
 115100	Costume Quest
 115110	Stacking
 115120	Iron Brigade
@@ -1344,10 +2281,14 @@
 115320	PROTOTYPE 2
 116100	Super Toy Cars
 116120	Lightfish
+116800	UNUSED APP (formerly Da Vinci)
+190410	Unused App ID
 200010	Quantum Conundrum
 200020	Global Ops: Commando Libya
 200050	Naval War: Arctic Circle
+200060	Sacred 2: Fallen Angel (EU)
 200080	Nancy Drew: Shadow at the Water's Edge
+200090	Ever17
 200110	Nosgoth
 200130	Puzzler World 2
 200150	Battle Chess: Game of Kings™
@@ -1356,139 +2297,265 @@
 200210	Realm of the Mad God
 200230	Off-Road Drive
 200260	Batman: Arkham City GOTY
+200350	Starvoid
 200370	A Game of Dwarves
 200390	Oil Rush
 200410	SOL: Exodus
+200420	Codemasters Prototyping
+200430	Dead Island - Dev
+200470	Take On Mars - INTERNAL
+200480	Arma: Cold War Rearmed 2 
 200490	Memento Mori
+200500	Father Frost
 200510	XCOM: Enemy Unknown
 200550	DUNGEONS - The Dark Lord (Steam Special Edition)
+200600	Take on Helicopters
 200630	Gettysburg: Armored Warfare
 200670	Disciples III: Resurrection
+200690	Grand Theft Auto: IV (JP)
 200710	Torchlight II
+200740	Counter-Strike: Global Offensive Press
+200750	Gamersfirst Shared Web Client
 200900	Cave Story+
 200910	Before the Echo
+200930	Dead Island Soundtrack
 200940	Sonic CD
 200960	Geneforge 1
 200980	Geneforge 2
 200990	Geneforge 3
 201000	Geneforge 4
 201010	Geneforge 5
+201020	NBA 2K12
 201040	Galcon Legends
 201070	Revelations 2012
+201140	Salem
+201190	Magic: The Gathering – Tactics
 201210	Pox Nora
 201230	EverQuest II
+201250	Battlestar Galactica Online
+201280	Deus Ex: Human Revolution - The Missing Link
 201290	Sins of a Solar Empire: Trinity
 201310	X3: Albion Prelude
+201330	Max Payne (IT)
+201360	The Haunted: Hells Reach Demo
+201380	Runes of Magic
+201400	Grand Chase
 201420	Toki Tori 2+
+201440	Football Manager 2012 A-League Demo
+201460	Jamestown Demo
 201480	Serious Sam: The Random Encounter
 201490	Airline Tycoon 2
 201510	Flatout 3
+201530	RAGE Press App
+201550	WWE WrestleFest
 201570	Really Big Sky
+201590	Race Injection Expansion
+201620	Landgrabbers
+201640	Gettysburg: Armored Warfare Beta
+201660	BasketDudes
 201700	DiRT Showdown
+201760	Cities XL 2012
+201780	Crazy Machines 2:  Halloween DLC
 201790	Orcs Must Die! 2
 201810	Wolfenstein: The New Order
 201830	Jurassic Park: The Game
+201840	JP Ep 2: NOT USED
+201850	JP Ep 3: NOT USED
+201860	JP Ep 4: NOT USED
 201870	Assassin's Creed Revelations
+201930	Jamestown IGF
+201950	Age of Empires Online DLC Range
+202000	Toon Boom Studio 6.0
+202050	A Kingdom for Keflings
 202070	Choplifter HD
 202090	Magicka: Wizard Wars
+202110	Trine 2 Beta
 202130	Impire
+202150	Turbine Microtransaction Test
 202170	Sleeping Dogs™
 202200	Galactic Civilizations II: Ultimate Edition
+202250	Saints Row: The Third - KR Ratings Build
 202270	Leviathan: Warships
 202310	Ridge Racer™ Unbounded
+202330	The Adventures of Tintin: The Game
+202350	Steam Mobile Access
 202370	Scarygirl
 202410	Scoregasm
+202430	L.A. Noire PR
+202460	The Elder Scrolls V: Skyrim Press App
+202490	AVA Dev App
+202500	Iron Grip: Warlord new app
 202530	SONIC THE HEDGEHOG 4 Episode I
+202570	Max Payne (FR)
+202590	CrimeCraft Dev App
+202630	Risen 2 Preview
 202670	Nancy Drew Alibi in Ashes
 202690	Hegemony Gold: Wars of Ancient Greece
 202710	Demigod
 202730	Dynamite Jack
 202750	Alan Wake's American Nightmare
+202770	Rockstar Games Official Game Group
+202780	Dungeons & Dragons Anthology: The Master Collection
+202800	Dungeons & Dragons: Neverwinter Nights Complete
+202820	Endless Space DEV
+202840	RaceRoom the Game 2
 202860	Real Warfare 2: Northern Crusades
+202900	Max Payne 2 FR
+202940	Super Meatboy Soundtrack
 202970	Call of Duty: Black Ops II
+202990	Call of Duty: Black Ops II - Multiplayer
+203010	Elephant
+203030	War of the Roses Testing 1
 203140	Hitman: Absolution
 203160	Tomb Raider
 203210	Titan Attacks
 203250	Star Trek
+203270	Project Zeus
 203290	America's Army: Proving Grounds
+203310	Toon Boom Studio
+203320	NightSkyHD Beta
 203350	King's Bounty: Warriors of the North
+203369	King's Bounty: Warriors of the North (pre-order)
+203370	Tiny Token Empires
+203390	Casino Chaos
+203410	UBONGO
+203430	Voodoo Chronicles
+203450	Isla Dorada
+203470	Age of Enigma
+203490	Star Defender
 203510	Fortune Summoners: Secret of the Elemental Stone
 203560	Containment: The Zombie Puzzler
+203580	Costume Quest Achievement Testing App
+203610	Morning Star
 203630	Warlock - Master of the Arcane
 203650	SONIC THE HEDGEHOG 4 Episode II
 203680	F1 Race Stars
+203699	F1 Race Stars Pre-Order
+203730	Q.U.B.E.
 203750	Binary Domain
 203770	Crusader Kings II
+203790	War of the Roses Testing 2
 203810	Dear Esther
 203830	The Dark Eye: Chains of Satinav
+203850	Microsoft Flight
+203870	Microsoft Flight DLC Range
 203990	SATAZIUS
 204030	Fable - The Lost Chapters
 204060	Superbrothers: Sword & Sworcery EP
 204080	The Showdown Effect
 204100	Max Payne 3
 204120	LEGO Harry Potter: Years 5-7
+204140	All Zombies Must Die!
+204150	All Zombies Must Die DLC1
 204180	Waveform
 204220	Snapshot
 204240	The Bridge
 204300	Awesomenauts
+204320	Starforce DRM test
 204340	Serious Sam 2
 204360	Castle Crashers
 204390	Pineapple Smash Crew 
+204430	Intel Level Up community group
 204440	Pickers
 204450	Call of Juarez Gunslinger
+204490	Game 1
+204510	The Expendables 2 Videogame
 204530	Infested Planet
+204540	Dayle Flowers SDK Demo
 204560	Confrontation
 204580	Rotastic
 204630	Retro City Rampage™ DX
+204650	Holiday Sale Community Group
+204700	TestApp204700
+204720	Krater Public Tests
 204760	Deep Black : Reloaded
+204830	GavinWoodTestApp
 204840	Babel Rising
 204860	Men of War: Condemned Heroes
 204880	Sins of a Solar Empire: Rebellion
 204940	Crusader Kings Complete
 204960	Magical Drop V
+205000	Spec Ops: The Line Review
 205020	Lumino City
+205040	Project Ranger
 205060	BIT.TRIP CORE
 205070	BIT.TRIP VOID
 205080	BIT.TRIP FATE
 205090	BIT.TRIP FLUX
 205100	Dishonored
+205180	Planescape Torment
 205190	Rocksmith
+205210	City of Heroes Freedom
 205230	Hell Yeah!
 205330	Law & Order: Legacies
 205350	Mortal Kombat Kollection
+205390	Worldjong
+205410	Ultimate Mahjong 20
+205430	Ultimate Solitaire 1000
+205450	Elizabeth Find M.D
+205470	Elements of Destruction
+205490	Mahjong Investigations
+205510	Astro Avenger 2
 205530	Gratuitous Tank Battles
 205550	Foreign Legion: Multi Massacre
+205570	Risen 2 Beta
+205590	Legends of Pegasus
 205610	Port Royale 3
 205650	The Testament of Sherlock Holmes
+205670	Sins of a Solar Empire: Rebellion Review Build
 205690	1000 Amps
 205710	EverQuest Free-to-Play
 205730	Insanely Twisted Shadow Planet
+205770	King Arthur II - The Role-playing Wargame - Demo
+205790	Dota 2 Test
+205800	Dota 2 Test - Dedicated Server
 205810	Jagged Alliance: Crossfire
 205830	Luxor Evolved
 205840	Yesterday
 205870	Auditorium
+205890	Runescape
 205910	Tiny and Big: Grandpa's Leftovers
+205921	Tiny and Big Preorder
+205930	Hitman: Sniper Challenge
 205950	Jet Set Radio
+205970	Project Plasa
 205990	Warlock 2: the Exiled
 206020	Avernum 4
 206040	Avernum 5
 206060	Avernum 6
+206180	Baldurs Gate
 206190	Gunpoint
 206210	Gotham City Impostors: Free To Play
 206230	Clan of Champions
 206250	ClaDun x2
+206270	GTA SA German Mac
+206330	DE Dev App
 206370	Tales from Space: Mutant Blobs Attack
 206410	Crazy Machines Elements
 206420	Saints Row IV
 206440	To the Moon
+206460	UNUSED: The Lord of the Rings Online (new content server)
 206480	Dungeons & Dragons Online®
 206500	AirMech
+206540	Fallout New Vegas Ultimate Placeholder
 206610	3SwitcheD
+206630	DOOM 4
+206670	Fort Zombie II
 206690	iBomber Defense Pacific
+206740	Who Wants To Be A Millionaire? Special Editions
 206760	Painkiller: Recurring Evil
+206900	Legends of Pegasus Beta
+206920	Port Royale 3 Beta
+206940	Icewind Dale
+206950	Icewind Dale 2
+206960	Temple of Elemental Evil
+206970	Baldurs Gate 2
+206980	War of the Roses Balance Beta
 207000	Alien Spidy
 207020	Bang Bang Racing
+207029	Bang Bang Racing Pre-Order
 207040	Sine Mora
+207060	MLB 2K12
 207080	Indie Game: The Movie
 207140	SpeedRunners
 207150	Stellar Impact
@@ -1497,6 +2564,8 @@
 207210	Tony Hawk's Pro Skater HD
 207230	Archeblade
 207250	Cubemen
+207290	DiRT Showdown Preview
+207310	X3 Terran Conflict more languages
 207320	Ys: The Oath in Felghana
 207350	Ys Origin
 207370	eXceed - Gun Bullet Children
@@ -1504,10 +2573,14 @@
 207400	eXceed 3rd - Jade Penetrate Black Package
 207420	Wizorb
 207430	Hack, Slash, Loot
+207470	test
 207490	Rayman Origins
 207530	Noitu Love 2 Devolution
+207550	World of Mercenaries
 207570	English Country Tune
+207590	Scary Girl (EU)
 207610	The Walking Dead
+207629	The Walking Dead
 207650	A Virus Named TOM
 207670	AVSEQ
 207690	Botanicula
@@ -1515,19 +2588,31 @@
 207730	Arena Wars 2
 207750	Symphony
 207790	Jane's Advanced Strike Fighters
+207830	Borderlands 2 Testbed
+207890	Football Manager 2013
+207910	Football Manager 2013 Beta
 207930	Sacred Citadel
 208030	Moon Breakers
 208090	Loadout
 208110	Myst V
+208130	Martino Test App 3
 208140	Endless Space
+208160	Foldit
+208180	MySpaceWarTestApp
 208200	DOOM 3: BFG Edition
+208240	pieterw_test_new_cddb
+208250	Combat Wings: The Great Battles of World War II
+208380	Magic: The Gathering - Duels of the Planeswalkers 2013 PR
 208400	Avernum: Escape From the Pit
+208420	Boot Camp Tycoon
 208460	Tryst
 208480	Assassin's Creed® III
 208500	F1 2012
 208520	Omerta - City of Gangsters
+208550	Sniper Ghost Warrior 2 Press Version
 208580	STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™
 208600	Lunar Flight
+208610	Skullgirls ∞Endless Beta∞
 208620	Midnight Mysteries: Salem Witch Trials
 208630	Midnight Mysteries 3: Devil on the Mississippi
 208640	Midnight Mysteries 4: Haunted Houdini
@@ -1536,101 +2621,195 @@
 208710	Colour Bind
 208730	Game of Thrones 
 208750	Apotheon
+208770	Warlock Master of the Arcane Beta
+208850	Valve Store
 208860	Mad Riders
+208910	Shoot Many Robots DLC Range
+208930	NOP2
 209000	Batman™: Arkham Origins
 209060	Drunken Robot Pornography
 209080	Guns of Icarus Online
 209100	Resident Evil™: Operation Raccoon City
 209120	Street Fighter X Tekken
+209140	X-Com EU New
 209160	Call of Duty: Ghosts
+209170	Call of Duty: Ghosts - Multiplayer
 209190	Stealth Bastard Deluxe
+209210	Sherlock Holmes and The Hound of The Baskervilles
 209230	Sherlock Holmes and The Hound of The Baskervilles
+209250	Kassidy's Test Game
 209270	Hero Academy
 209330	A Valley Without Wind
+209340	Ride to Hell: Retribution
 209360	AZMD! Scorepocalypse 
 209370	Analogue: A Hate Story
 209390	Dungeonbowl Knockout Edition
+209440	Kassidy Ox Cart
+209480	Project P3
+209500	The Witcher Mac
 209520	Mini Motor Racing EVO
 209540	Strike Suit Zero
+209550	Metaforic TestApp 1
+209570	Metaforic TestApp 2
+209590	Metaforic TestApp 3
 209610	Roller Coaster Rampage
 209630	Magrunner: Dark Pulse
 209650	Call of Duty: Advanced Warfare
+209660	Call of Duty: Advanced Warfare - Multiplayer
 209670	Cortex Command
 209690	Fieldrunners
 209710	War of the Immortals
 209730	RAW - Realms of Ancient War
 209750	Cannon Fodder 3
+209770	Introversion DLC Range
 209790	Splice
 209830	Lone Survivor: The Director's Cut
 209850	Highborn
 209870	Blacklight: Retribution
+209910	Peter Jackson's King Kong
+209930	Second Life
 209950	Triple Town
+209970	Related Design - TestApp1
 210150	Pole Position 2012
 210170	Spirits
+210210	Microsoft unused available for reuse
 210230	Nancy Drew: Tomb of the Lost Queen
+210270	Tripwire Test App
+210340	Deponia
+210350	Max Payne (RU)
+210390	Adam's Venture Episode 2: Solomon's Secret
+210410	Max Payne 2 DE
+210430	Max Payne 2 IT
 210490	Fray
+210540	Angry Birds Seasons
 210550	Angry Birds Space
+210760	AVA Test Client
 210770	Sanctum 2
+210790	Martino Oxcart testapp 3
+210800	Nexuiz Ratings
+210820	Sniper Elite V2 Press
+210860	Super MNC Dev
 210870	Cloudberry Kingdom
+210910	Crusader Kings 2 Beta Cont
+210930	Killing Floor DLC Range
 210950	Rune Classic
+210970	The Witness
 210990	Pro Cycling Manager 2012
 211010	Alien Shooter 2 Conscription
+211030	Sniper Elite V2 Demo (LV)
 211050	Battle vs Chess
 211070	Check vs. Mate
+211100	Jagged Alliance: Back in Action Additional Depot range
 211120	The Political Machine
+211140	DYNASTY WARRIORS 7 with Xtreme Legends
 211160	Viking: Battle for Asgard
 211180	Unmechanical
+211220	NOT War of the Immortals - Use for something else
+211240	Worms Revolution Beta
 211260	They Bleed Pixels
 211280	Primal Fears
+211300	Dishonored Test App
 211340	Magical Diary
 211360	Offspring Fling!
+211380	Shoot Many Robots: Arena Kings
 211400	Deadlight
 211420	Dark Souls: Prepare to Die Edition
 211440	Adventures of Shuggy
+211460	Sin
+211480	Portal 2 In Motion
 211500	RaceRoom Racing Experience 
+211540	Dry Ice Studios Game
+211560	Crysis 2 GOTY
 211580	Wanderlust: Rebirth
 211600	Thief Gold
+211630	OxCartExampleGame
+211650	Stoked – Big Air Edition
+211670	007™ Legends
 211740	Thief 2
+211760	007 Legends - Dev
 211780	Conflict Desert Storm
 211800	Dead Hungry Diner
 211820	Starbound
+211840	DiRT Showdown Review
+211860	Edgeworld
+211880	Bullet Run
 211900	Conquest of Elysium 3
+211920	Monolith Central Tech Sample
 211970	Test Drive®: Ferrari Racing Legends
 212010	Galaxy on Fire 2™ Full HD
 212030	Kung Fu Strike: The Warrior's Rise
 212050	Resonance
+212059	Resonance Pre-order
 212070	Star Conflict
+212090	Endless Space VIP
 212110	Sugar Cube: Bittersweet Factory
 212160	Vindictus
+212180	Combat Arms
 212200	Mabinogi
+212220	Dungeon Fighter Online
 212240	Atlantica Online
+212260	Sudden Attack
+212330	Sherlock Holmes versus Jack the Ripper additional language depots
+212370	Arctic Combat
 212390	C9
 212410	Inversion™
+212430	Train Simulator Alpha
 212480	Sonic & All-Stars Racing Transformed
 212500	The Lord of the Rings Online™
+212542	Red Orchestra 2 - Dedicated Server
 212580	The Amazing Spider-Man
 212630	Tom Clancy's Ghost Recon Future Soldier
 212680	FTL: Faster Than Light
 212700	Party of Sin
+212740	TERA
+212760	TS Test
 212780	New Star Soccer 5
 212800	Super Crate Box
+212820	Painkiller Hell & Damnation Preview
+212870	martino test app 4
+212880	martino test app 5
+212910	Call of Duty: Black Ops II - Zombies
+212980	TS2012AlphaApp Extra Range
 213030	Penny Arcade's On the Rain-Slick Precipice of Darkness 3
+213050	Starvoid Beta
 213120	Transformers: Fall of Cybertron
+213270	Blood Knights
+213290	Max Payne 3 PR
 213330	LEGO Batman 2
 213350	MDK 2 HD
+213570	Trash TV (demo)
 213610	Sonic Adventure™ 2 
+213630	Portal 2 - Educational Version
 213650	Dwarfs F2P
 213670	South Park™: The Stick of Truth™
+213740	Dizzel
+213760	Seven Souls Online
+213800	Project Calamity 
 213850	Magic 2014 
+213950	Valve Test App 01
+213960	Valve Test App 01
+213970	Valve Test App 02
+213980	Valve Test App 03
+213990	Valve Test App 04
+214000	Valve Test App 05
+214010	Atlas
+214030	Total War Battles Shogun Dev
+214050	Sanctum Beta
 214100	Rigonauts
 214130	aerofly FS
 214150	Galactic Civilizations I: Ultimate Edition
 214170	Divine Divinity
 214190	Minimum
 214210	Cabela's® Hunting Expeditions
+214230	Family Guy™: Back to the Multiverse
 214250	I Am Alive
+214270	Mensa Academy
+214310	Adam's Venture Episode 3: Revelations
+214320	Dollar Dash
 214340	Deponia
 214360	Tower Wars
+214380	Rune Classic Dedicated Server
+214400	American Mensa Academy
 214420	Gear Up
 214490	Alien: Isolation
 214510	LEGO Lord of the Rings
@@ -1640,83 +2819,158 @@
 214590	Fairy Bloom Freesia
 214610	Cherry Tree High Comedy Club
 214630	Call of Duty: Black Ops - OSX
+214640	Call of Duty: Black Ops - Multiplayer OSX
+214680	Magic 2013 Special Edition
 214700	Thirty Flights of Loving
 214730	Space Rangers HD: A War Apart
 214770	Guacamelee! Gold Edition
 214790	The Basement Collection
 214830	Half Minute Hero: Super Mega Neo Climax Ultimate Boy
 214870	Painkiller Hell & Damnation
+214890	Air Conflicts - Secret Wars
 214910	Air Conflicts: Pacific Carriers
+214929	Air Conflicts Pacific Carriers Pre-Order
 214950	Total War: ROME II - Emperor Edition
 214970	Intrusion 2
+215040	Unmechanical Beta
+215060	Painkiller Hell & Damnation Beta
 215080	WAKFU
 215100	Ragnarok
 215120	ROSE Online
+215140	A Game of Dwarves Beta
 215160	The Book of Unwritten Tales
+215260	DON'T USE - USE 242110 INSTEAD
 215280	The Secret World
+215300	Clan of Champions DLC Range
+215350	Killing Floor Dedicated Server - Win32
+215360	Killing Floor Dedicated Server - Linux
 215390	Damage Inc
+215450	Transcripted
 215470	Primal Carnage
+215490	Primal Carnage Beta
 215510	Rocketbirds: Hardboiled Chicken
 215530	The Incredible Adventures of Van Helsing
 215550	Zombie Playground™
+215570	Paradox Web Test
+215590	Endless Space QA
 215630	Demonicon
 215670	Home
 215690	Zeno Clash 2
 215710	Fieldrunners 2
+215730	Might & Magic: Heroes VI - Shades of Darkness Review
+215750	V
 215770	Shad'O
 215790	Dream Pinball 3D
+215810	Darksiders 2 DLC range
 215870	Dungeon Party
+215890	Auslandia Awesomer Sequel new name
 215930	Jagged Alliance 2 - Wildfire 
+215950	DOOM 3: BFG Test App
+216050	Endless Space - DLC Range
 216090	Go Home Dinosaurs!
 216110	Tiny Troopers
 216130	Gemini Wars
 216150	MapleStory
+216190	Sherlock Holmes: The Secret of the Silver Earring Additional Language Depots
 216210	Secret Files 3
+216230	Toy Soldiers: Cold War
 216250	Dead Island Riptide
 216260	Don Bradman Cricket 14
+216280	Serious Sam 3 - Linux DedServer
 216290	Gateways
+216350	Air Hawks
+216370	Nexuiz Beta
 216390	Fallen Enchantress
+216410	Hitman: Absolution DLC range
+216550	Football Manager 2013 UNUSED (formerly press review)
+216570	Football Manager 2013 Korean
+216590	Football Manager 2013 Turkish
+216610	Football Manager 2013 Russian
+216650	Iron Brigade Beta
 216670	Great Big War Game
+216710	Second Life Additional Depot Range
+216820	Sleeping Dogs Reviewer Edition
+216870	SpaceChem Introduction
 216890	Blood Bowl: Chaos Edition
 216910	Of Orcs And Men
 216930	Luxor Amun Rising HD
+217000	Natural Selection 2 - Map Playtesting
+217020	Natural Selection 2 Dedicated Server - Map Playtesting
+217040	ObjectDock
 217060	Total War Battles: SHOGUN
 217080	Doctor Who: The Eternity Clock
 217100	Dementium II HD
+217120	Waves 2: Wave Harder
 217140	Rise of the Triad
 217200	Worms Armageddon
+217220	Team Fortress 2 DLC Range
 217270	Karateka 
 217290	Din's Curse
+217330	GameMaker: UNUSED
+217490	Borderlands 2 RU
 217690	Anna - Extended Edition
+217710	Pets vs Monsters
+217730	Anarchy Online
 217750	Age of Conan: Unchained - EU version
+217770	Gas Powered Games Test App
 217790	Dogfight 1942
 217860	Special Forces: Team X
+217880	March of the Eagles Beta
 217920	Alien Rage - Unlimited
+217980	Dishonored (RU)
+218000	RaceRoom Racing Experience WIP
 218020	Nethergate: Resurrection
 218040	Democracy 2
 218060	BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien
+218069	Bit Trip Runner 2 Pre-order
 218090	Unity of Command
 218130	Dungeonland
+218150	Age of Conan - Unused
 218170	Age of Conan: Unchained - US version
+218210	Vanguard: Saga of Heroes F2P
 218230	PlanetSide 2
+218250	Democracy 2 Demo
+218270	Democracy 2 Demo
 218310	Frontline Tactics
 218330	Smashmuck Champions
+218370	F1 2012 Preview
+218390	F1 2012 Review
 218410	Defender's Quest: Valley of the Forgotten
+218430	Team Fortress 2 Dedicated Server (VALVE PRIVATE)
+218450	Jagged Alliance Online - Steam Edition
+218470	RaiderZ
 218510	Planets Under Attack
+218570	Dota 2 DLC Range
 218620	PAYDAY 2
 218640	Lucius
 218660	iBomber Attack
 218680	Scribblenauts Unlimited
 218700	Angelica Weaver: Catch Me When You Can - Collector’s Edition
+218720	[CONSOLE] Team Fortress 2
 218740	Pid 
 218820	Mercenary Kings
+218840	War of the Roses DLC Range
 218860	Cabela's® Dangerous Hunts 2013
+218920	[CONSOLE] Half-Life 2 Multiplayer
+218940	[CONSOLE] Half-Life 2 Multiplayer
+218960	Striker Superstars
 218980	Patterns
+219000	[CONSOLE] Day of Defeat: Source
+219050	Borderlands 2 Press Review
 219070	Miner Wars Arena 
+219090	Call of Duty: Black Ops II DLC Range
 219150	Hotline Miami
+219170	Hitman: Absolution Preview
 219190	Ultratron
 219200	Droid Assault
+219260	QUantum Conundrum 2
 219340	The Banner Saga: Factions
+219360	X-Com: Enemy Unknown UNUSED
+219400	TERA NA
+219460	Dishonored Press
+219540	Arma 2: Operation Arrowhead Beta (Obsolete)
+219560	Start8
+219580	XCOM:Enemy Unknown – Press
 219600	NBA 2K13
 219640	Chivalry: Medieval Warfare
 219680	Proteus
@@ -1731,73 +2985,131 @@
 219910	Edna & Harvey: Harvey's New Eyes
 219950	NiGHTS into Dreams...
 219990	Grim Dawn
+220010	Grand Invasion
 220050	The Walking Dead™: Survival Instinct
 220090	The Journey Down: Chapter One
 220160	Trials Evolution Gold Edition
 220200	Kerbal Space Program
+220220	Far Cry 3 Beta
 220240	Far Cry® 3
 220260	Farming Simulator 2013
+220380	Need for Speed Pro-Street
 220420	Nancy Drew: The Deadly Device
 220440	DmC Devil May Cry
 220460	Cargo Commander
 220660	StarDrive
+220680	StarDrive Beta
 220740	Chaos on Deponia
 220780	Thomas Was Alone
 220820	Zombie Driver HD
 220860	McPixel
+220880	Hardware (Delta)
 220900	Jack Lumber
+220920	Ikari Warriors
+220940	Bubble Fighter
 221020	Towns
 221040	Resident Evil 6 / Biohazard 6
+221080	District 187
 221100	DayZ
+221120	Blood Bowl: Star Coach - Bêta
 221180	Eufloria HD
+221240	Arkane Private Test App
 221260	Little Inferno
+221280	Cygnus
 221300	Monopoly
+221320	Universe Sandbox - School Edition
 221340	Infected: The Twin Vaccine - Collector's Edition
+221360	Wizardry Online
 221380	Age of Empires II: HD Edition
+221400	Test App
+221410	Steam for Linux
+221430	Pro Evolution Soccer 2013
+221460	Alien Spidy
+221480	Dollar Dash
+221520	Civ V: Loc Test
 221540	Defense Grid 2
+221560	Windborne
+221600	VGP4
 221640	Super Hexagon
 221680	Rocksmith 2014
+221750	Phaeton: Chapter I
+221790	Renaissance Heroes
 221810	The Cave
 221830	The Book of Unwritten Tales: The Critter Chronicles
 221910	The Stanley Parable
+221930	Call of Duty: Black Ops 2 Preorder
+221940	F1 Race Stars Preview
+221960	F1 Race Stars Review
+222000	Chronicles
+222040	Rocksmith DLC song range 2
 222140	Puddle
 222160	Hamlet or the last game without MMORPG features, shaders and product placement
 222180	Mushroom Men: Truffle Trouble 
+222200	Rocksmith Preorder
+222260	Europa Universalis IV Beta
+222320	Football Manager 2013 Asia
 222420	THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
 222440	THE KING OF FIGHTERS 2002 UNLIMITED MATCH
+222460	Aliens: Colonial Marines Developer Test App
 222480	Resident Evil Revelations / Biohazard Revelations
+222500	Hacker Assassin
 222520	Champions of Regnum
 222640	Aarklash: Legacy
 222660	Retro/Grade
 222730	Reus
 222750	Wargame: AirLand Battle
+222800	Metro Last Light DLC Range
+222820	Emergency 2013
 222880	Insurgency
 222900	Dead Island: Epidemic
 222940	THE KING OF FIGHTERS XIII STEAM EDITION
 222980	Dead Pixels
 223000	7 Wonders: Ancient Alien Makeover
+223030	Bloodline Champions DLC Range
+223050	Worms Revolution Dev
 223100	Homefront: The Revolution
+223120	Century of Chaos
+223140	Risen 2 Dark Waters JP
+223200	Infested Complex
 223220	Giana Sisters: Twisted Dreams
 223280	Cut the Rope
+223300	Steam Hardware
+223310	Frontline Tactics DLC Range
+223330	Sea Dogs: To Each His Own
+223390	Forge
 223410	Perpetuum
 223430	Miner Wars 2081
 223450	Dyad
 223470	POSTAL 2
 223490	Blockscape
 223510	Miasmata
+223530	Left 4 Dead 2 Beta
+223550	Assassin's Creed 3 - Multiplayer
 223630	AirBuccaneers
+223650	F.E.A.R. Online
 223670	F1 2013
+223690	Family Guy: Back to the Multiverse DLC Range
 223710	Cry of Fear
 223730	FLY'N
 223750	DCS World
 223810	Ys I
 223830	Xenonauts
+223870	Ys II
+223940	Hardware (Internal)
+223960	Hardware (VIP)
+223980	Hardware (Demo)
+224020	Yogventures!
 224040	LocoCycle
 224060	Deadpool
+224080	Bioshock Infinite Pre-order
 224220	Pressure
 224260	No More Room in Hell
 224300	Legacy of Kain: Defiance
+224320	Uncharted Waters Online
 224340	Fast & Furious: Showdown
+224360	Ice Age™: Continental Drift: Arctic Games
+224400	LucasArts Test App
+224420	Afterfall InSanity Extended Edition
 224440	Folk Tale
 224460	Contrast
 224480	Octodad: Dadliest Catch
@@ -1805,11 +3117,14 @@
 224540	Ace of Spades
 224580	Arma 2: DayZ Mod
 224600	Defiance
+224680	Strike Suit Zero Beta
 224700	The Game of Life
+224720	Project Conductor - NOT USED
 224740	Clockwork Empires
 224760	FEZ
 224820	Super House of Dead Ninjas
 224860	Arma Tactics
+224880	Equate Game
 224900	Iron Sky Invasion
 224920	Legacy of Kain: Soul Reaver
 224940	Legacy of Kain: Soul Reaver 2
@@ -1818,10 +3133,14 @@
 225000	Tomb Raider: Chronicles
 225020	Tomb Raider (VI): The Angel of Darkness
 225080	Brothers - A Tale of Two Sons
+225120	BRAZEN Prototype
 225140	Duke Nukem 3D: Megaton Edition
 225160	Shadow Warrior Classic Redux
 225180	Narco Terror
 225200	Farming Simulator 2013 - Modding Tutorials
+225219	Blood Bowl 2 - Preview
+225220	NASCAR The Game: 2013
+225240	Auto Club Revolution
 225260	Brütal Legend
 225280	Full Mojo Rampage
 225300	Tomb Raider II
@@ -1831,20 +3150,27 @@
 225540	Just Cause 3
 225600	Blade Symphony
 225640	Sacred 2 Gold
+225760	Nexuiz STUPID Mode
+225940	Happy Song Prototype
+225960	Costume Quest Prototype
 226100	Nom Nom Galaxy
 226120	Weird Worlds: Return to Infinite Space
 226320	Marvel Heroes 2015
+226340	Forge Beta
 226560	Escape Dead Island
 226580	F1 2014
+226600	Octodad: Dadliest Catch Beta
 226620	Desktop Dungeons
 226700	Infestation: Survivor Stories
 226720	Lost Planet 3
 226740	Monster Loves You!
+226760	Rugby Challenge 2
 226780	MUD - FIM Motocross World Championship™
 226820	Nancy Drew: Ghost of Thornton Hall
 226840	Age of Wonders III
 226860	Galactic Civilizations III
 226920	Hellraid
+226940	Dungeonland Beta
 226960	Ironclad Tactics
 226980	Pinball FX2
 227000	Primordia
@@ -1856,6 +3182,7 @@
 227180	Kingdom Wars
 227200	Waking Mars
 227220	Sang-Froid - Tales of Werewolves
+227280	No Time to Explain
 227300	Euro Truck Simulator 2
 227380	Dragon's Lair
 227400	Darkfall Unholy Wars
@@ -1866,6 +3193,7 @@
 227600	Castle of Illusion
 227680	StarForge
 227700	Firefall
+227720	Under the Ocean
 227760	March of the Eagles
 227780	Serious Sam Classics: Revolution
 227800	Retrovirus
@@ -1873,6 +3201,12 @@
 227900	Battleship
 227920	Risk
 227940	Heroes & Generals
+228020	Spacebase DF-9 Prototype
+228040	The White Birch Prototype
+228060	Black Lake Prototype
+228080	Hack n Slash Prototype
+228100	Autonomous Prototype
+228200	Company of Heroes (New Steam Version)
 228260	Fallen Enchantress: Legendary Heroes
 228280	Baldur's Gate: Enhanced Edition
 228300	Remember Me
@@ -1885,19 +3219,24 @@
 228880	Ashes of the Singularity
 228940	Carnage Racing
 228960	Skulls of the Shogun
+229100	Dragon's Prophet
 229480	Dungeons & Dragons: Chronicles of Mystara
 229520	Dungeon Hearts
 229580	Dream
 229600	Bientôt l'été
+229680	Guns of Icarus Dev App
 229810	A Fistful of Gun
+229830	Team Fortress 2 Beta Dedicated Server
 229870	ShootMania Storm
 229890	Joe Danger
 229970	Armada 2526 Gold Edition
 230050	DLC Quest
 230070	The Age of Decadence
 230150	Incredipede
+230170	Divinity: Dragon Commander Beta
 230190	War for the Overworld
 230230	Divinity: Original Sin
+230250	The Showdown Effect Beta
 230290	Universe Sandbox ²
 230310	Akaneiro: Demon Hunters
 230330	FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
@@ -1919,6 +3258,8 @@
 231310	MirrorMoon EP
 231330	Deadfall Adventures
 231430	Company of Heroes 2
+231550	Company of Heroes 2 - Private Test
+231670	Football Manager 2014
 231720	Bad Hotel
 231740	Knights of Pen and Paper +1
 231910	Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
@@ -1926,6 +3267,7 @@
 232010	Euro Truck Simulator
 232050	Eador. Masters of the Broken World
 232090	Killing Floor 2
+232210	Patch testing for Chivalry
 232430	Gone Home
 232450	SolForge
 232670	Who Wants To Be A Millionaire: Special Editions
@@ -1949,6 +3291,7 @@
 233310	Avadon 2: The Corruption
 233350	Sudeki
 233370	The Raven - Legacy of a Master Thief
+233390	Cart Life
 233410	Final Hours of Tomb Raider
 233450	Prison Architect
 233470	Evoland
@@ -1985,6 +3328,8 @@
 234900	Anodyne
 234920	Dyscourse
 234940	The 39 Steps
+234980	Legends of Dawn
+235000	The Raven - Legacy of a Master Thief Preview
 235070	Bad Bots
 235210	Strider
 235250	Super Sanctum TD
@@ -1998,6 +3343,7 @@
 235600	Tom Clancy's Splinter Cell Blacklist
 235620	Small World 2
 235660	Eador. Genesis
+235700	Sniper Elite: Zombie Army
 235720	Cubetractor
 235760	Young Justice: Legacy
 235780	MINERVA: Metastasis
@@ -2008,9 +3354,15 @@
 236110	Dungeon Defenders II
 236130	Horizon
 236150	Starpoint Gemini 2
+236170	Left For Dead Xbox Dedicated Server
+236190	Left 4 Dead 2 Xbox Dedicated Server
+236210	Counter Strike: Global Offensive Xbox Dedicated Server
+236250	Alien: Isolation Review
 236290	Cranky Cat
+236330	Chess the Gathering
 236370	Interstellar Marines
 236390	War Thunder
+236410	ORION: Dino Horde Beta
 236430	DARK SOULS™ II
 236450	PAC-MAN Championship Edition DX+
 236470	PAC-MAN MUSEUM
@@ -2020,6 +3372,7 @@
 236690	Blood Bowl 2
 236730	Anomaly 2
 236790	Agricultural Simulator 2013 Steam Edition
+236830	Red Orchestra 2: Heroes of Stalingrad - Single Player
 236850	Europa Universalis IV
 236870	Hitman
 236930	Blackwell Epiphany
@@ -2029,12 +3382,14 @@
 237350	Frozen Cortex
 237430	Expeditions: Conquistador
 237470	Battle Worlds: Kronos
+237510	Company of Heroes 2 - Limited Free Trial
 237550	Realms of Arkania: Blade of Destiny
 237570	Penny Arcade's On the Rain-Slick Precipice of Darkness 4
 237590	R.I.P.D.: The Game
 237630	DuckTales Remastered
 237740	Angry Video Game Nerd Adventures
 237760	Intake
+237830	Take on Helicopters RU
 237850	Dreamfall Chapters
 237870	Planet Explorers
 237890	Agarest: Generations of War
@@ -2046,6 +3401,9 @@
 238050	The Apogee Throwback Pack
 238070	Shadow Warrior Classic (1997)
 238090	Sniper Elite 3
+238110	Arcane Saga Online
+238130	Wargame: AirLand Battle Press
+238170	Afterfall InSanity - Dirty Arena Edition
 238210	System Shock 2
 238240	Edge of Space
 238260	Pinball Arcade
@@ -2055,7 +3413,9 @@
 238430	Contagion
 238460	BattleBlock Theater
 238530	Super Puzzle Platformer Deluxe
+238590	Loadout Campaign Beta
 238630	Fist Puncher
+238690	Rising Storm Beta Dedicated Server
 238750	Might & Magic X - Legacy 
 238870	Citadels
 238890	Skyward Collapse
@@ -2075,19 +3435,25 @@
 239410	Catan
 239430	Q.U.B.E: Director's Cut
 239450	Gun Monkeys
+239490	America's Army: Proving Grounds Beta (Closed)
 239660	Soldier Front 2
 239700	Hate Plus
 239720	PAC-MAN™ and the Ghostly Adventures
+239760	Football Manager Classic 2014
 239800	Bleed
 239820	Game Dev Tycoon
 239840	Dead State
 240160	Duke Nukem
 240180	Duke Nukem 2
 240200	Duke Nukem: Manhattan Project
+240220	Dead Island Riptide JP
 240320	Panzar
 240340	Space Ace
 240360	Dragon's Lair 2: Time Warp
+240380	Solstice Arena
 240460	WWE 2K15
+240520	Magrunner: Dark Pulse Press
+240540	Call of Duty: Ghosts Preorder
 240600	MotoGP™13
 240620	Wanderlust Adventures
 240660	RainBlood Chronicles: Mirage
@@ -2099,16 +3465,21 @@
 241410	CastleStorm
 241540	State of Decay
 241560	The Crew
+241580	GreenlightApp0
 241600	Rogue Legacy
 241620	Inquisitor
 241640	Haunted Memories
 241720	Guncraft
+241740	Saints Row IV Preview
 241910	Goodbye Deponia
 241930	Middle-earth: Shadow of Mordor
 241990	Sorcerer King
 242050	Assassin's Creed IV Black Flag
 242110	Joe Danger 2: The Movie
 242130	Vector Thrust
+242320	Football Manager 2014 Russian
+242360	Football Manager 2014 Korean
+242500	Europa Universalis IV Review
 242530	The Chaos Engine
 242550	Rayman Legends
 242570	Space Hulk
@@ -2135,16 +3506,20 @@
 243120	Betrayer
 243140	Glare
 243160	Mushroom 11
+243180	The Harvest
 243200	Memoria
 243220	FRACT OSC
 243280	Poof
 243300	Centration
+243320	Rekoil
 243360	TrackMania² Valley
+243380	Might & Magic VI
 243450	Urban Trial Freestyle
 243470	Watch_Dogs
 243560	Adventure Time:  Explore the Dungeon Because I DON’T KNOW!
 243780	PixelJunk™ Monsters Ultimate
 243800	Gas Guzzlers Extreme
+243850	Controller Testbed - Beta
 243870	Tom Clancy's Ghost Recon Phantoms - NA
 243930	Bound By Flame
 243950	Divinity: Dragon Commander
@@ -2158,6 +3533,9 @@
 244410	Supreme Ruler 1936
 244430	realMyst: Masterpiece Edition
 244450	Men of War: Assault Squad 2
+244510	Saints Row IV Press Build
+244530	Saints Row IV Korea Ratings Build
+244570	Saints Row IV Summer Build
 244590	Epigenesis
 244630	NEOTOKYO°
 244690	Face Noir
@@ -2173,11 +3551,13 @@
 244950	Where is my Heart?
 245010	Deathtrap Dungeon
 245050	SpellForce 2 - Demons of the Past
+245070	Steam Summer Getaway
 245130	The Dead Linger
 245150	The Novelist
 245170	Skullgirls
 245280	ENSLAVED™: Odyssey to the West™ Premium Edition
 245300	Disney Epic Mickey 2
+245350	Metro Last Light JP
 245370	Etherium
 245390	I Have No Mouth, and I Must Scream
 245410	Wizardry 6: Bane of the Cosmic Forge
@@ -2192,6 +3572,7 @@
 246070	Hack 'n' Slash
 246090	Spacebase DF-9
 246110	MASSIVE CHALICE
+246190	War of the Vikings Testing 1
 246280	Happy Wars
 246300	Paranormal
 246360	Perfection.
@@ -2225,9 +3606,12 @@
 247580	Magicka: Wizards of the Square Tablet
 247660	Deadly Premonition: The Director's Cut
 247730	Nether
+247750	The Stanley Parable Demo
 247770	Cabela's Big Game Hunter Pro Hunts
+247830	Aerena
 247870	Redshirt
 247910	Sniper Elite: Nazi Zombie Army 2
+247930	Sniper Elite: Zombie Army 2
 247950	Sacred 3
 248190	Knytt Underground
 248270	Songs2See Game
@@ -2248,6 +3632,7 @@
 248610	Door Kickers
 248630	Kingdoms Rise
 248650	Draw a Stickman: EPIC
+248690	Total War: Rome II Review
 248710	Iesabel
 248730	A Walk in the Dark
 248800	Dysfunctional Systems: Learning to Manage Chaos
@@ -2269,6 +3654,7 @@
 249650	Blackguards
 249680	Marlow Briggs
 249870	Scribblenauts Unmasked
+249930	A-Train 8
 249950	Forge Quest
 249990	FORCED
 250030	Lilly Looking Through
@@ -2300,6 +3686,7 @@
 250720	Starlight Inception
 250740	Ragnarok Online - Free to Play - European Version
 250760	Shovel Knight
+250870	Pro Evolution Soccer 2014
 250900	The Binding of Isaac: Rebirth
 251020	Railroad X
 251060	Wargame: Red Dragon
@@ -2321,6 +3708,7 @@
 251610	Barbie™ Dreamhouse Party™
 251630	The Impossible Game
 251650	Ray's The Dead
+251670	Battle Nations
 251690	Speedball 2 HD
 251710	Chainsaw Warrior
 251730	Legend of Grimrock 2
@@ -2359,6 +3747,7 @@
 252550	Qbeh-1: The Atlas Cube
 252570	Depths of Fear :: Knossos
 252630	Eldritch
+252650	Warhammer: End Times - Vermintide | Public Test
 252670	Nihilumbra
 252690	Fantasy Grounds
 252710	The Last Express Gold Edition
@@ -2403,9 +3792,13 @@
 253940	Septerra Core
 253960	Jack Orlando Director's Cut
 253980	Enclave
+254000	East India Company Gold
+254020	Commander: Conquest of the Americas Gold
+254040	Pirates of Black Cove Gold
 254060	KnightShift
 254080	World War III: Black Gold
 254100	World War II: Panzer Claws
+254130	NASCAR '14
 254200	FortressCraft Evolved
 254320	Duskers
 254370	Aquanox Deep Descent
@@ -2419,6 +3812,7 @@
 254840	Ground Control II
 254880	MoonBase Commander
 254960	Silent Storm
+254980	Silent Storm Sentinels
 255030	Echo Prime
 255070	Abyss Odyssey
 255220	GRID Autosport
@@ -2433,6 +3827,7 @@
 255480	NBA 2K14
 255500	Entropy
 255520	Viscera Cleanup Detail: Shadow Warrior
+255700	Steam - The Game (Tutorial App)
 255710	Cities: Skylines
 255870	PixelJunk™ Shooter
 255920	The 7th Guest
@@ -2445,6 +3840,7 @@
 256190	Enemy Front
 256290	Child of Light
 256330	WRC 4 FIA WORLD RALLY CHAMPIONSHIP
+256350	WRC Powerslide
 256370	MXGP - The Official Motocross Videogame
 256390	MotoGP™14
 256410	Might & Magic: Duel of Champions
@@ -2482,9 +3878,11 @@
 258220	Blood Knights
 258240	Tank Operations: European Campaign
 258520	The Vanishing of Ethan Carter
+258550	Rust Dedicated Server
 258590	Finn and Jake's Epic Quest
 258700	Dragon Nest Europe
 258760	Scania Truck Driving Simulator
+258780	Lilly Looking Through Beta
 258880	Professional Farmer 2014
 258890	Type:Rider
 258910	Citizens of Earth
@@ -2496,8 +3894,11 @@
 259130	Wasteland 1 - The Original Classic
 259170	Alone in the Dark
 259190	Alone in the Dark: The New Nightmare
+259280	Earth 2150: The Moon Project
+259300	Earth 2150: Lost Souls
 259320	Heli Heroes
 259340	Chicken Shoot Gold
+259360	Chicken Shoot 2
 259390	Ballpoint Universe: Infinite
 259410	Sneaky Sneaky
 259430	Zigfrak
@@ -2551,11 +3952,15 @@
 260710	Dark Fall 2: Lights Out
 260730	Desperados - Wanted Dead or Alive
 260750	Neighbours from Hell
+260770	Neighbours from Hell 2
 260790	1001 Spikes
+260890	Ruymen Test Game 1
+260930	Emergency 2014
 261030	The Walking Dead: Season Two
 261110	Killer is Dead
 261180	Lethal League
 261350	Steam Bandits: Outpost
+261450	SNOW Test
 261470	Distant Worlds: Universe
 261490	Bedlam
 261510	Tesla Effect
@@ -2612,6 +4017,7 @@
 263140	Postmortem: one must die (Extended Cut)
 263180	Squirt's Adventure
 263200	Signs of Life
+263260	Motor Rock
 263280	Spintires
 263300	BlazBlue: Calamity Trigger
 263320	Saturday Morning RPG
@@ -2620,6 +4026,7 @@
 263380	Driftmoon
 263400	War of the Human Tanks
 263420	Probably Archery
+263440	The Stomping Land
 263460	Girls Like Robots
 263480	Final Rush
 263500	Dragons and Titans
@@ -2634,12 +4041,14 @@
 263760	Turbo Dismount
 263800	Spaceforce Constellations
 263820	EvilQuest
+263840	Out of the Park Baseball 14
 263860	SPACECOM
 263880	Aqua Kitty - Milk Mine Defender
 263920	Zombie Grinder
 263960	Wyv and Keep: The Temple of the Lost Idol
 263980	Out There Somewhere
 264000	Son of Nor
+264040	Conversion
 264060	Full Bore
 264080	Vangers
 264120	Victory: The Age of Racing
@@ -2667,6 +4076,7 @@
 264710	Subnautica
 264730	Deadly 30
 265000	FORCED: Eternal Arenas
+265020	Ashes Cricket 2013
 265120	Meridian: New World
 265170	Acceleration of Suguri X-Edition
 265210	Viscera Cleanup Detail: Santa's Rampage
@@ -2679,6 +4089,7 @@
 265590	The Red Solstice
 265610	Epic Battle Fantasy 4
 265630	Fistful of Frags
+265650	Age of Wushu
 265670	Imagine Me
 265690	NaissanceE
 265750	Secret Ponchos
@@ -2722,6 +4133,7 @@
 266940	Alex Hunter - Lord of the Mind
 266980	The Labyrinth of Time
 267060	Gravity Badgers
+267110	Kingdoms Rise Test
 267220	Line Of Defense Tactics - Tactical Advantage
 267340	Beware Planet Earth
 267360	MURI
@@ -2774,6 +4186,7 @@
 269330	Chronology
 269350	Montas
 269370	Reaper - Tale of a Pale Swordsman
+269390	Dethroned!
 269430	Burning Cars
 269490	Bardbarian
 269530	Voice Of Pripyat
@@ -2789,6 +4202,7 @@
 269790	DreadOut
 269810	Spate
 269890	AR-K
+269910	Xam
 269990	Infinite Space III: Sea of Stars
 270010	Time Rifters
 270050	Quest of Dungeons
@@ -2821,6 +4235,7 @@
 270880	American Truck Simulator
 270910	Worms World Party Remastered
 270950	Ski Region Simulator
+271180	Might & Magic X - Legacy Press
 271240	Offworld Trading Company
 271290	HAWKEN
 271360	Industry Giant 2
@@ -2843,9 +4258,11 @@
 272330	Shadow Blade: Reload
 272350	Tom Clancy's Ghost Recon Phantoms - EU
 272470	The Incredible Adventures of Van Helsing II
+272490	Brick-Force (US)
 272510	NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution
 272600	Detective Grimoire
 272670	Out of the Park Baseball 15
+272860	Next Car Game Sneak Peek 2.0
 272890	Vertiginous Golf
 272990	GAUGE
 273030	Pro Rugby Manager 2015
@@ -2873,6 +4290,7 @@
 273940	Warehouse and Logistics Simulator
 273960	Mechs & Mercs: Black Talons
 274010	Ship Simulator: Maritime Search and Rescue
+274060	Facepunch Prototypes
 274130	Rambo The Video Game
 274170	Hotline Miami 2: Wrong Number
 274190	Broforce
@@ -2882,6 +4300,8 @@
 274290	Gods Will Be Watching
 274310	Always Sometimes Monsters
 274350	Dropsy
+274390	Pandora Directive
+274450	The Powerpuff Girls: Defenders of Townsville
 274480	Drox Operative
 274500	Brigador
 274520	Darkwood
@@ -2902,6 +4322,7 @@
 275310	Victorian Admirals Anthology
 275330	Anmynor Puzzles
 275350	Sentinel 3: Homeworld
+275370	Paper Monsters
 275390	Guacamelee! Super Turbo Championship Edition
 275470	Chip
 275490	Canyon Capers
@@ -3108,6 +4529,7 @@
 284290	Farm Machines Championships 2014
 284390	The Last Door - Collector's Edition
 284460	DeadCore
+284480	Trials Fusion - Closed Beta
 284580	ZAMB! Biomutant Extermination
 284710	Abyss: The Wraiths of Eden
 284730	Dark Arcana: The Carnival
@@ -3125,6 +4547,7 @@
 284970	Project Root
 284990	Solarix
 285010	Pixel Puzzles: UndeadZ
+285030	Actua Soccer 3
 285050	Showtime!
 285070	Between Me and The Night
 285090	Robowars
@@ -3134,6 +4557,7 @@
 285310	RollerCoaster Tycoon: Deluxe
 285330	RollerCoaster Tycoon 2: Triple Thrill Pack
 285350	Kingdom Elemental
+285400	A-Train 9
 285420	Deadly Sin 2
 285440	Crimzon Clover  WORLD IGNITION
 285480	The Entente Gold
@@ -3216,8 +4640,10 @@
 288260	Conflicks - Revolutionary Space Battles
 288290	Super Game Jam
 288370	Strike Suit Zero: Director's Cut
+288390	Nobunaga's Ambition: Souzou with Power Up Kit
 288470	Fable Anniversary
 288500	Black Rainbow
+288570	Wolfenstein: The New Order German Edition
 288610	Kingdom Tales 2
 288630	Sharpe Investigations: Death on the Seine
 288650	HTR+ Slot Car Simulation
@@ -3227,6 +4653,7 @@
 288730	Redneck Racers
 288750	Hotel Collectors Edition
 288790	White Haven Mysteries
+288800	Infected: The Twin Vaccine
 288830	Voodoo Whisperer Curse of a Legend
 288840	Haunted Past: Realm of Ghosts
 288880	Pineview Drive
@@ -3288,9 +4715,11 @@
 290650	Time Ramesside (A New Reckoning)
 290710	Cloud Chamber
 290730	My Lands
+290750	Earth: Year 2066
 290770	The Fall
 290790	Grey Goo
 290810	Colossal Kaiju Combat™: Kaijuland Battles
+290830	Chaos Heroes Online
 290870	Steam Squad
 290890	You Must Build A Boat
 290930	Half-Life 2: Update
@@ -3343,6 +4772,7 @@
 292400	Unrest
 292410	Street Racing Syndicate
 292420	Panzer Elite Action Fields of Glory
+292440	Panzer Elite Action Dunes of War
 292480	Magical Battle Festa
 292500	Kero Blaster
 292570	Chompy Chomp Chomp
@@ -3370,8 +4800,10 @@
 293240	Cosmochoria
 293260	Card Hunter
 293280	Wander
+293300	LEVEL 22
 293320	Coma:Mortuary
 293340	The Good Life
+293360	Second Chance Heroes
 293400	Epic Space: Online
 293420	Heldric - The legend of the shoemaker
 293440	Elliot Quest
@@ -3380,6 +4812,7 @@
 293500	Amazing World
 293520	Carnivores: Dinosaur Hunter Reborn
 293540	Guns and Robots
+293560	TOME: Immortal Arena
 293600	Arson & Plunder: Unleashed
 293660	TRI: Of Friendship and Madness
 293680	Cinders
@@ -3388,6 +4821,7 @@
 293760	Automation - The Car Company Tycoon Game
 293780	Crawl
 293800	Classroom Aquatic
+293820	Us and the Game Industry (2014)
 293840	Cult of the Wind
 293860	White Noise Online
 293880	Dark Scavenger
@@ -3444,6 +4878,7 @@
 295750	The Floor is Jelly
 295770	Rogue Shooter: The FPS Roguelike
 295790	Never Alone (Kisima Ingitchuna)
+295810	Air Control
 295850	Vlad the Impaler
 295870	The Dungeoning
 295910	Olympia Rising
@@ -3484,6 +4919,7 @@
 297060	Freaking Meatbags
 297070	Nicolas Eymerich The Inquisitor Book II : The Village
 297080	Navpoint
+297090	World War 1 Centennial Edition
 297100	Beyond Space
 297110	Cosmic DJ
 297120	Heavy Bullets
@@ -3536,6 +4972,7 @@
 298890	Adventure Time: The Secret Of The Nameless Kingdom
 298930	Darkness Within: In Pursuit of Loath Nolder
 298950	Darkness Within 2: The Dark Lineage Director's Cut Edition
+299010	Mana Crusher
 299020	Runaway Express Mystery
 299030	Blood: One Unit Whole Blood
 299050	Blood II: The Chosen + Expansion
@@ -3558,11 +4995,14 @@
 299540	Heroes Rise: The Prodigy
 299580	Abducted
 299600	Dragon Fin Soup
+299640	Afterfall: Reconquest Episode I
 299660	6180 the moon
 299680	Tengami
+299700	Face of Mankind
 299720	Terrorhedron
 299740	Miscreated
 299780	Noir Syndrome
+299800	The Land of Eyas
 299820	Paradigm Shift
 299840	Metal Planet
 299860	Beasts of Prey
@@ -3608,6 +5048,7 @@
 301380	Date Warp
 301420	Third Eye Crime
 301460	Electronic Super Joy: Groove City
+301480	GEARCRACK Arena
 301500	BOMB
 301520	Robocraft
 301540	Rhythm Destruction
@@ -3621,6 +5062,7 @@
 301740	Castle: Never Judge a Book by its Cover
 301750	RADical ROACH Deluxe Edition
 301760	Cars 2
+301810	Strategy First 25th Anniversary
 301830	Disney-Pixar Brave
 301860	Submerged
 301910	Saints Row: Gat out of Hell
@@ -3690,6 +5132,8 @@
 303680	FATE: The Traitor Soul
 303690	FATE: The Cursed King
 303710	Monomino
+303740	Rebuild: Original Rebuild 1
+303760	Rebuild: Original Rebuild 2
 303790	Faery - Legends of Avalon
 303800	The Witcher Adventure Game
 303820	Rugby 15
@@ -3706,6 +5150,7 @@
 304150	Bloodbath
 304170	Kick-Ass 2
 304240	Resident Evil / biohazard HD REMASTER
+304270	Grand Chase
 304290	Heroes Rise: The Hero Project
 304350	Wildlife Park 2
 304410	Hexcells Infinite
@@ -3715,9 +5160,11 @@
 304580	Cityconomy
 304650	Sunless Sea
 304670	Aeon Command
+304710	Whitewash
 304730	Train Fever
 304750	Voodoo Chronicles: The First Sign HD - Director’s Cut Edition
 304810	TesserAct
+304890	Quantum Rush Online
 304910	Sky Gamblers: Storm Raiders
 304930	Unturned
 304950	Castaway Paradise
@@ -3799,6 +5246,7 @@
 307760	Zoo Park
 307770	Wildlife Park 2 - Horses
 307780	Mortal Kombat X
+307860	Meridian4 Daily Deal
 307880	Savage Lands
 307900	Wildlife Park 2 - Marine World
 307920	Wildlife Park 2 - Farm World
@@ -3900,6 +5348,7 @@
 312350	Commander : The Great War
 312360	To End All Wars
 312370	Warhammer 40,000: Armageddon
+312390	Pike & Shot
 312400	Frontline : The Longest Day
 312410	Defense Zone
 312420	Hell
@@ -3920,6 +5369,7 @@
 312780	Way of the Samurai 4
 312790	Agarest: Generations of War 2
 312840	Fahrenheit: Indigo Prophecy Remastered
+312860	Defense Grid 2: A Matter of Endurance
 312900	Zoo Rampage
 312920	Rugby League Live 3
 312960	Starion Tactics
@@ -4019,6 +5469,7 @@
 315550	Taxi
 315600	Ford Racing 3
 315610	Spud's Quest
+315640	Dizzel
 315650	Deep Under the Sky
 315660	Trainz: A New Era
 315670	Raiden III Digital Edition
@@ -4036,6 +5487,7 @@
 316020	Hangeki
 316030	Alice in Wonderland
 316080	Parcel
+316110	Depth Beta
 316140	Appointment With FEAR
 316160	Broken Sword 4 - the Angel of Death
 316180	A City Sleeps
@@ -4066,6 +5518,8 @@
 317080	MotorSport Revolution
 317100	Republique
 317110	Uncharted Waters Online: Gran Atlas
+317120	Pillars of Eternity - Public Beta
+317170	Company of Heroes 2 - Beta
 317250	Airscape: The Fall of Gravity
 317290	Bionic Heart 2
 317300	Roommates
@@ -4137,12 +5591,14 @@
 319450	Chariot
 319470	Ninja Pizza Girl
 319480	Odallus: The Dark Call
+319490	Ruymen Test Game 2
 319510	Five Nights at Freddy's
 319550	The Collider
 319560	Reprisal Universe
 319570	Heroes of SoulCraft
 319630	Life Is Strange™
 319740	There Came an Echo
+319750	Project D Online
 319780	Airport Simulator 2015
 319830	AX:EL
 319850	Bridge Constructor Medieval
@@ -4174,6 +5630,7 @@
 320790	Fabula Mortis
 320820	Toren
 320840	Wings! Remastered Edition
+320890	The Chronicles of Narnia - Prince Caspian
 320970	IGT Slots Paradise Garden
 321030	One Day For Ched
 321040	DiRT 3 Complete Edition
@@ -4191,6 +5648,7 @@
 321360	Primal Carnage: Extinction
 321370	Sign Motion
 321390	Zone 22
+321400	Supraball
 321410	Command: Modern Air / Naval Operations WOTY
 321450	Aquadelic GT
 321480	Sigils of Elohim
@@ -4220,10 +5678,12 @@
 322160	Afro Samurai 2: Revenge of Kuma Volume One
 322170	Geometry Dash
 322210	Guns, Gore & Cannoli
+322230	Guild Wars Daily Deal Advert App
 322290	Gurumin: A Monstrous Adventure
 322300	The Repopulation
 322330	Don't Starve Together Beta
 322440	Red Goddess: Inner World
+322460	Winning Post 8 2015
 322520	Dynasty Warriors 8 - Empires
 322540	Galactic Inheritors
 322550	Standpoint
@@ -4269,6 +5729,7 @@
 323780	Fireworks Simulator
 323850	Move or Die
 323900	MoW: Face Off M
+323950	French Indie Sale
 324050	Farm Mechanic Simulator 2015
 324070	iO
 324080	Rising World
@@ -4332,6 +5793,7 @@
 326180	Sinister City
 326190	Alchemy Mysteries: Prague Legends
 326230	Smugglers 5: Invasion
+326350	Maszyny Rolnicze 2015
 326380	Mystery of Neuschwanstein
 326410	Windward
 326420	Sam Glyph: Private Eye!
@@ -4345,6 +5807,7 @@
 326670	Warhammer Quest
 326720	Instant Dungeon!
 326730	Whisper of a Rose
+326740	Black Fire
 326840	Heart&Slash
 326950	Sword of Asumi
 326960	Killing Floor - Toy Master
@@ -4353,11 +5816,13 @@
 327010	Motorama
 327060	Feist
 327090	Out of Reach
+327100	Forge: Ymil's Revenge
 327150	Deadstone
 327210	Cheesecake Cool Conrad
 327220	Anna's Quest
 327260	Life of Pixel
 327310	The Marvellous Miss Take
+327320	Disney Launch Advertising App
 327370	Brink of Consciousness: The Lonely Hearts Murders
 327380	Pirates! Gold Plus (Classic)
 327390	Sid Meier's Covert Action (Classic)
@@ -4386,6 +5851,7 @@
 328070	Reflex
 328080	Retro-Pixel Castles
 328100	Gunspell: Steam Edition
+328140	Emergency 5 - Deluxe Edition
 328220	Wild Season - Episode 1
 328240	Crossfire Europe
 328270	Leviathan: The Last Day of the Decade
@@ -4483,6 +5949,7 @@
 331220	Thief Town
 331290	Miko Gakkou: Second Year
 331340	Tulpa
+331360	Heavy Metal Machines
 331390	Winged Sakura: Mindy's Arc
 331400	Luna: Shattered Hearts: Episode 1
 331440	bit Dungeon II
@@ -4491,6 +5958,7 @@
 331470	Everlasting Summer
 331500	Executive Assault
 331510	Amphora
+331560	Mechanik Maszyn Rolniczych 2015
 331570	Wimp: Who Stole My Pants?
 331580	ULTRAWORLD
 331600	ONE PIECE PIRATE WARRIORS 3
@@ -4515,6 +5983,7 @@
 332260	Cars Mater-National
 332310	LEGO® Worlds
 332330	PixelJunk™ Shooter Ultimate
+332370	Miko Gakkou Monogatari: Kaede Episode
 332380	Asguaard
 332390	Undefeated
 332400	Girlfriend Rescue
@@ -4567,6 +6036,7 @@
 333760	Vintage Year
 333820	Out of the Park Baseball 16
 333830	Franchise Hockey Manager 2
+333860	Project Night
 333870	Feel-A-Maze
 333880	Braveland Wizard
 333930	Dirty Bomb
@@ -4599,6 +6069,7 @@
 334830	Entropy Rising
 334840	Drive to Hell
 334850	1931: Scheherazade at the Library of Pergamum
+334930	The Ingenious Machine: New and Improved Edition
 334960	Cell HD: emergence
 334980	Into Blue Valley
 335000	Tormentum - Dark Sorrow
@@ -4776,6 +6247,7 @@
 339840	The Moment of Silence
 339850	Overclocked: A History of Violence
 339860	AoF World Online
+339900	One Night
 339910	Uncraft World
 340030	Dungeon of gain
 340050	Survivalist
@@ -4845,6 +6317,7 @@
 341120	Glorkian Warrior: The Trials Of Glork
 341150	Age of Fear 2: The Chaos Lord
 341160	Steam Heroes
+341190	Hotline Miami 2: Wrong Number Digital Comic
 341260	Isaac the Adventurer
 341310	Greyfox
 341360	Paparazzi
@@ -4935,6 +6408,7 @@
 343270	Disillusions Manga Horror
 343280	Zotrix
 343320	StaudSoft's Synthetic World
+343330	NEED FOR MADNESS ?
 343340	Tiamat X
 343360	Particula
 343370	SLAMMED!
@@ -4968,6 +6442,7 @@
 344260	Agapan
 344270	InnerCube
 344300	Heckabomb
+344320	Quake Live Testing
 344340	Front Office Football Seven
 344410	Magnetic: Cage Closed
 344440	Sacra Terra: Angelic Night
@@ -5010,6 +6485,7 @@
 345390	King's Quest
 345430	The Cursed Forest
 345440	Vapour
+345520	Infinite Crisis™
 345540	Inbetween Land
 345580	Universal Combat CE
 345610	The Fruit of Grisaia
@@ -5047,6 +6523,8 @@
 346300	Containment Protocol
 346320	Streets of Chaos
 346340	Gran Vitreous
+346370	Into The War
+346400	Chaos Ride
 346420	The Spatials
 346430	Spectrum: First Light
 346440	Musclecar Online
@@ -5061,6 +6539,7 @@
 346630	Plazma Being
 346650	Break the Cube
 346670	Sky Battles
+346680	Black Mesa Dedicated Server
 346730	GOCCO OF WAR
 346770	Quarries of Scred
 346780	Luminosity
@@ -5143,6 +6622,7 @@
 348730	Abyss Raiders: Uncharted
 348790	Wooden Floor
 348810	M4 Tank Brigade
+348820	FIM Speedway Grand Prix 15
 348840	UFHO2
 348850	Disney Mickey's Typing Adventure
 348860	MyDream
@@ -5194,6 +6674,7 @@
 350220	Dead Sea
 350310	BLADESTORM: Nightmare
 350330	Call of the Ninja!
+350470	CLOSED ALPHA
 350490	Love And Order
 350500	Fly in the House
 350510	HassleHeart
@@ -5265,6 +6746,7 @@
 352210	Little Cells
 352220	King of Dragon Pass
 352360	Reflections
+352370	Defect
 352400	LEGO® Jurassic World
 352430	Farlight Explorers
 352460	Dead Realm
@@ -5331,8 +6813,10 @@
 354770	Trigger Saint
 354810	Coated
 354820	Prison Tycoon Alcatraz
+354830	Wolfenstein: The Old Blood German Edition
 354850	Why So Evil 2: Dystopia
 354860	The Adventures of Tree
+354870	Reckless Ruckus
 354900	Headcrab Frenzy!
 354910	Indie Assault
 354920	Pester
@@ -5482,9 +6966,13 @@
 358420	Xenophage
 358430	Balls of Steel
 358440	Dark Ages
+358480	DarkBase 01
 358610	Exowar
+358640	Blue Estate Digital Comic
 358650	Gryphon Knight Epic
+358680	Steam Broadcaster
 358700	3d Bridges
+358720	SteamVR Developer Hardware
 358770	The Reject Demon: Toko Chapter 0 — Prelude
 358810	Luckslinger
 358830	Good Robot
@@ -5537,6 +7025,7 @@
 360390	Nightside
 360430	Mafia III
 360450	Kiai Resonance
+360480	Victory Command
 360510	Into the Stars
 360520	Hypt
 360530	WE ARE DOOMED
@@ -5544,6 +7033,7 @@
 360580	Abduction Action! Plus
 360590	Once Bitten, Twice Dead
 360600	99 Waves to Die
+360610	Houston, we have a problem
 360620	Spellsworn
 360640	12 Labours of Hercules II: The Cretan Bull
 360650	12 Labours of Hercules III: Girl Power
@@ -5601,6 +7091,7 @@
 362130	Ashes of Immortality
 362140	Ashes of Immortality II
 362290	The Living Dungeon
+362300	H1Z1 Test Server
 362310	Dungeon League
 362350	Boss Monster
 362370	Dog Fight
@@ -5621,6 +7112,7 @@
 362920	Atlantis 2: Beyond Atlantis
 362930	Garfield Kart
 362940	Courier of the Crypts
+362990	Risen 3: Titan Lords - Enhanced Edition
 363050	Let's Explore The Airport (Junior Field Trips)
 363060	Let's Explore The Farm (Junior Field Trips)
 363070	Let's Explore The Jungle (Junior Field Trips)
@@ -5745,6 +7237,7 @@
 365880	Mirrored - Chapter 1
 365890	Heroes of Normandie
 365900	Pixel Dungeon
+365920	Act of Aggression Press Review
 365930	STOORM - Yellow Edition.
 365960	rFactor 2
 366040	Iggy's Egg Adventure
@@ -5765,6 +7258,7 @@
 366600	Withstand: Apotheosis
 366610	Not without my donuts
 366620	Broken Bots
+366640	Shiness: The Lightning Kingdom
 366670	The Travels of Marco Polo
 366700	Breakout Invaders
 366780	Magical Eyes - Red is for Anguish
@@ -5794,6 +7288,7 @@
 367430	Redshift Blueshift
 367450	Poly Bridge
 367500	Dragon's Dogma: Dark Arisen
+367540	Starbound - Unstable
 367550	Rugby League Team Manager 2015
 367570	oO
 367580	Hook
@@ -5808,6 +7303,7 @@
 367990	3D Paraglider
 368050	Almightree: The Last Dreamer
 368080	Aurion, legacy of the Kori-Odan
+368090	Might & Magic Heroes VII - Beta
 368140	Tobari and the Night of the Curious Moon
 368160	WORLD END ECONOMiCA episode.02
 368180	Polyball
@@ -5842,6 +7338,7 @@
 368880	Mystery Maze Of Balthasar Castle
 368890	AR-K: The Great Escape
 368900	Brilliant Bob
+368930	Mara
 368950	Jigoku Kisetsukan: Sense of the Seasons
 368970	Haywire on Fuel Station Zeta
 368990	Despair
@@ -5868,6 +7365,7 @@
 369560	The Story Goes On
 369570	Spectra
 369580	NotGTAV
+369620	F-1 drive
 369640	Treeker: The Lost Glasses
 369700	Tanzia
 369860	Brain Guzzler
@@ -5910,6 +7408,7 @@
 370970	Unlimited Escape 3 & 4 Double Pack
 371000	Cave Coaster
 371010	Nomad Fleet
+371040	Deponia The Complete Journey daily adv app
 371100	Waste Walkers
 371120	Discouraged Workers
 371180	Super 3-D Noah's Ark
@@ -5935,6 +7434,7 @@
 371530	Legends of Pixelia
 371550	A Bastard's Tale
 371570	Tap Heroes
+371600	F1 Chequered Flag
 371620	SBX: Invasion
 371670	Rolling Sun
 371690	Pixel Space
@@ -5972,11 +7472,13 @@
 372960	Robbery Bob: Man of Steal
 372970	Cash_Out
 373080	Instinct
+373100	Wrath of Athena
 373110	Temper Tantrum
 373120	Bernie Needs Love
 373140	Grail to the Thief
 373180	Kung Fury: Street Rage
 373240	Black Sails
+373280	Brutal Force
 373290	Stones of Sorrow
 373330	All Is Dust
 373360	Cast of the Seven Godsends
@@ -6118,6 +7620,7 @@
 377720	Idol Magical Girl Chiru Chiru Michiru Part 2
 377760	Fox & Flock
 377860	Mushihimesama
+377870	DARIUSBURST Chronicle Saviours
 377890	Blue Libra
 377900	Empire TV Tycoon
 377940	Slam
@@ -6130,6 +7633,7 @@
 378100	Nyctophobia
 378110	Hack RUN
 378120	Football Manager 2016
+378180	Football Manager 2016 Demo
 378270	Putrefaction
 378280	Pump-Action Captain
 378300	The Knobbly Crook: Chapter I - The Horse You Sailed In On
@@ -6172,6 +7676,7 @@
 380130	Warhawks
 380140	The Secret of Tremendous Corporation
 380150	STASIS
+380190	Pre Load App Test
 380210	Signal to Noise
 380220	Hover Junkers
 380360	Tap Tap Infinity
@@ -6241,6 +7746,7 @@
 383070	The Fleets of Sol
 383080	Sakura Clicker
 383100	Fragile Allegiance
+383110	Battle Squadron
 383120	Empyrion - Galactic Survival
 383190	SUMICO - The Numbers Game
 383230	Dungeon Souls
@@ -6281,6 +7787,7 @@
 384210	Quadle
 384280	Mute Crimson+
 384310	Dead In Bermuda
+384320	Handball 16
 384360	Fingered
 384400	Hordelicious
 384500	Zombie Party
@@ -6303,6 +7810,7 @@
 384960	Police Infinity
 384980	Battle for Blood - Epic battles within 30 seconds!
 384990	Gon' E-Choo!
+385010	Hidden in the Darkness
 385020	Ancients of Fasaria: Chess Club
 385060	The Last Warlock
 385070	Atonement: Scourge of Time
@@ -6371,9 +7879,11 @@
 386590	Novus Inceptio
 386600	Pixel Fodder
 386630	Nirvana: The First Travel
+386640	Affected Zone Tactics
 386700	The Oil Blue
 386710	StoryMode - A Game About Crafting
 386750	Cashtronauts
+386800	Street Fighter V Beta
 386840	Sentinel 4: Dark Star
 386870	Playing History 2 - Slave Trade
 386880	Rake
@@ -6419,6 +7929,7 @@
 388450	Spooky Bonus
 388490	One Way To Die: Steam Edition
 388500	Super Space Meltdown
+388520	Call of Duty: Black Ops III Beta
 388540	Dr. Bulbaceous
 388620	DungeonUp
 388660	Project Tarvotan
@@ -6435,6 +7946,7 @@
 389230	Fish or Die
 389250	Planet Alcatraz 2
 389270	Abandoned
+389300	TERA
 389310	Tic-Toc-Tower
 389400	The chronicles of Emerland. Solitaire.
 389460	Robot vs Birds Zombies
@@ -6453,11 +7965,13 @@
 389970	Blues and Bullets - Digital Comic
 390030	DESYNC
 390040	Small Radios Big Televisions
+390070	Estetiikka
 390200	Queen's Quest: Tower of Darkness
 390220	Toilet Tycoon
 390290	Bulb Boy
 390340	Umbrella Corps™/Biohazard Umbrella Corps™
 390510	Sim Junta
+390520	PewDiePie: Legend of the Brofist
 390570	Three Digits
 390610	Circa Infinity
 390660	Call of Tomsk-7
@@ -6477,6 +7991,7 @@
 391100	Frizzy
 391120	The Archetype
 391130	STEEL RIVALS
+391150	I Spent Two Years On This :(
 391160	The Deletion
 391170	Void Invaders
 391180	Ladra
@@ -6508,19 +8023,22 @@
 392020	RFLEX
 392050	Galactic Hitman
 392070	Pumped BMX +
+392080	Wayward Terran Frontier: Zero Falls
 392110	Endless Space 2
+392180	Black The Fall Demo
 392260	Rogue Wizards
 392280	The Franz Kafka Videogame
 392450	Silver Creek Falls - Chapter 1
 392470	NOBUNAGA'S AMBITION: Sphere of Influence
 392580	WARSHIFT
-392610	tricone lab
+392610	Tricone Lab
 392620	Lucadian Chronicles
 392690	Erwin's Timewarp
 392700	Glück Auf
 392720	Daily Espada
 392730	The Bizarre Creations of Keith the Magnificent
 392780	Mondrian - Abstraction in Beauty
+392790	Football Manager Touch 2016
 392820	Wild Island Quest
 392870	Attrition: Nuclear Domination
 392890	Trucker 2
@@ -6575,6 +8093,7 @@
 395250	The Adventures of Fatman
 395270	A Wolf in Autumn
 395300	Voxel Blast
+395310	Virtual Pool
 395380	ANKI
 395400	Freedom Cry
 395420	The Dwarf Run
@@ -6596,6 +8115,7 @@
 396160	Secret Of Magia
 396230	VERSUS: The Lost Ones
 396310	Masochisia
+396410	Tom Clancy's Rainbow Six Siege - Beta
 396450	One-eyed Jak
 396480	Battlestation: Harbinger
 396530	Fireflies
@@ -6607,10 +8127,13 @@
 396730	gShift
 396790	Dracula's Legacy
 396820	Mass Destruction
+396830	Strangers
 396850	Chronicles of the Witches and Warlocks
 396860	Over The Hills And Far Away
 396930	Tidal Affair: Before The Storm
 397020	Ironkraft - Road to Hell
+397040	Sphere III: Enchanted World
+397080	Magicka 2: Spell Balance Beta
 397180	Command: Northern Inferno
 397200	Deliverance
 397210	Kanji Training Game
@@ -6625,6 +8148,7 @@
 397440	Lost Legends: The Weeping Woman Collector's Edition
 397460	The Jackbox Party Pack 2
 397500	Labyronia RPG 2
+397530	Sword Coast Legends - Head Start Access
 397550	Deus Ex: Revision
 397570	Shmadow
 397580	Moonbase 332
@@ -6697,6 +8221,7 @@
 399900	Mad Snowboarding
 399910	Ookibloks
 399920	Blowy Fish
+399940	Symulator Farmy 2016
 400110	Else Heart.Break()
 400130	Freedom Poopie
 400160	Concrete Jungle
@@ -6706,6 +8231,7 @@
 400370	Normality
 400380	Tactical Soccer The New Season
 400410	OASE - Other Age Second Encounter
+400430	The Vanishing of Ethan Carter Redux
 400450	NeuroVoider
 400470	The Seven Years War (1756-1763)
 400500	MadOut Ice Storm
@@ -6793,13 +8319,16 @@
 404480	SC2VN - The eSports Visual Novel
 404550	Dead Acres
 404580	Relive
+404600	Broforce: Twitchcon Demo
 404620	The Political Machine 2016
 404630	One Hundred Ways
 404640	Game Tycoon 2
 404660	Vicky Saves the Big Dumb World
 404690	This Book Is A Dungeon
+404730	Wasteland 2: Director's Cut
 404750	Carrotting Brain
 404810	Escape from Puzzlegate
+404850	DARTHY
 404860	Inside Me
 404920	Emergency 2016
 405000	UTOPIA 9 - A Volatile Vacation
@@ -6885,6 +8414,7 @@
 410540	Starlord
 410550	Tank: The M1A1 Abrams Battle Tank Simulation
 410590	Fiends of Imprisonment
+410700	System Shock: Classic
 410710	System Shock: Enhanced Edition
 410770	Roads of Rome
 410850	Dragon Quest Heroes
@@ -6921,6 +8451,7 @@
 412770	Boogeyman
 412930	Farm Mania: Hot Vacation
 412940	Back to Dinosaur Island 
+413010	Conflicks - Revolutionary Space Battles Demo
 413460	Draft Day Sports College Basketball 3
 413470	Where Angels Cry - Tears Of The Fallen (Collectors Edition)
 413490	Rothschild: The Sheep Will Wake
@@ -6934,14 +8465,18 @@
 414080	Life is Hard
 414260	Ironclads 2: American Civil War
 414290	Princess.Loot.Pixel.Again
+414460	Tom Clancy's The Division - Beta
 414470	Nightmare on Azathoth
+414500	Caribbean Odyssey
 414580	Uriel's Chasm 2: את
+414700	Outlast 2
 414920	Corgi Warlock
 415030	One More Dungeon
 415330	When In Rome
 415390	Viking Saga: The Cursed Ring
 415400	Cross Set
 415490	Lemurzin
+415500	Racecraft Techdemo
 415850	BAD END
 415890	Crystal Picnic
 415920	Voidspire Tactics
@@ -6954,6 +8489,7 @@
 416140	The Final Frontier: Space Simulator
 416160	Heresy
 416170	HotLead
+416200	Door To Door
 416210	Block'hood
 416220	The Light Empire
 416260	The Lost Island
@@ -6990,3 +8526,5 @@
 420950	Time Tenshi
 421260	Militia
 421630	A Study in Steampunk: Choice by Gaslight
+421730	Block N Load PTR
+422830	PAYDAY 2 - Tournament
