@@ -156,7 +156,7 @@ namespace configdownloader
         /// <summary>
         /// Sends request for controller configs
         /// </summary>
-        void sendRequest()
+        void sendRequest(bool is_new = true)
         {
             var service = steamClient.GetHandler<SteamUnifiedMessages>().CreateService<IPublishedFile>();
 
@@ -169,12 +169,20 @@ namespace configdownloader
                 return_metadata = true,
                 return_tags = true,
                 return_previews = true,
-                appid = appidCurrent,
+                appid = is_new ? 241100 : appidCurrent,
                 page = pageCurrent,
                 numperpage = itemsPerPage,
                 query_type = 11,
                 filetype = (uint)EWorkshopFileType.GameManagedItem,
             };
+
+            if (is_new)
+            {
+                query.required_kv_tags.Add(new CPublishedFile_QueryFiles_Request.KVTag() { key = "app", value = appidCurrent.ToString() });
+
+                // We don't want to see 'private' items
+                query.required_kv_tags.Add(new CPublishedFile_QueryFiles_Request.KVTag() { key = "visibility", value = "public" });
+            }
 
             service.SendMessage(x => x.QueryFiles(query));
 
@@ -201,6 +209,33 @@ namespace configdownloader
                     RatesDown = item.vote_data != null ? item.vote_data.votes_down : 0,
                     Details = item
                 };
+
+                foreach (var tag in item.kvtags)
+                {
+                    if (tag.key == "app")
+                    {
+                        uint app = 0;
+
+                        if (!uint.TryParse(tag.value, out app))
+                        {
+                            info.App = tag.value;
+                        }
+                        else
+                        {
+                            var game = Games.Where(x => x.AppID == app).FirstOrDefault();
+
+                            if (game != null)
+                            {
+                                info.App = game.Name;
+                            }
+                            // We don't know actual name
+                            else
+                            {
+                                info.App = $"AppID {app}";
+                            }
+                        }
+                    }
+                }
 
                 Invoke(new MethodInvoker(delegate
                 {
@@ -277,6 +312,11 @@ namespace configdownloader
 
                 if (item != null)
                 {
+                    if (item.URL == "")
+                    {
+                        MessageBox.Show("Downloading this item isn't supported.");
+                        return;
+                    }
                     saveFileDialog1.FileName = item.FileName;
 
                     if (saveFileDialog1.ShowDialog() == DialogResult.OK)
@@ -289,8 +329,9 @@ namespace configdownloader
                     }
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
+                MessageBox.Show($"Error Downloading Config: {ex.ToString()}");
             }
         }
 
