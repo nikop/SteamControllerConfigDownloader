@@ -33,12 +33,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.get = new System.Windows.Forms.Button();
             this.datagridConfigs = new System.Windows.Forms.DataGridView();
-            this.RatesUp = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.RatesDown = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.appDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.RatesUp = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.RatesDown = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.configItemBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.currentStatus = new System.Windows.Forms.ToolStripStatusLabel();
             ((System.ComponentModel.ISupportInitialize)(this.datagridConfigs)).BeginInit();
@@ -52,7 +52,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.inputAppID.Location = new System.Drawing.Point(55, 6);
             this.inputAppID.Name = "inputAppID";
-            this.inputAppID.Size = new System.Drawing.Size(407, 20);
+            this.inputAppID.Size = new System.Drawing.Size(659, 20);
             this.inputAppID.TabIndex = 0;
             this.inputAppID.TextChanged += new System.EventHandler(this.inputAppID_TextChanged);
             this.inputAppID.KeyUp += new System.Windows.Forms.KeyEventHandler(this.inputAppID_KeyUp);
@@ -69,7 +69,7 @@
             // get
             // 
             this.get.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.get.Location = new System.Drawing.Point(468, 6);
+            this.get.Location = new System.Drawing.Point(720, 6);
             this.get.Name = "get";
             this.get.Size = new System.Drawing.Size(75, 20);
             this.get.TabIndex = 2;
@@ -101,25 +101,9 @@
             this.datagridConfigs.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             this.datagridConfigs.RowHeadersVisible = false;
             this.datagridConfigs.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.datagridConfigs.Size = new System.Drawing.Size(531, 302);
+            this.datagridConfigs.Size = new System.Drawing.Size(783, 302);
             this.datagridConfigs.TabIndex = 3;
             this.datagridConfigs.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
-            // 
-            // RatesUp
-            // 
-            this.RatesUp.DataPropertyName = "RatesUp";
-            this.RatesUp.HeaderText = "RatesUp";
-            this.RatesUp.Name = "RatesUp";
-            // 
-            // RatesDown
-            // 
-            this.RatesDown.DataPropertyName = "RatesDown";
-            this.RatesDown.HeaderText = "RatesDown";
-            this.RatesDown.Name = "RatesDown";
-            // 
-            // saveFileDialog1
-            // 
-            this.saveFileDialog1.Filter = "Config|*.vdf";
             // 
             // appDataGridViewTextBoxColumn
             // 
@@ -134,9 +118,25 @@
             this.nameDataGridViewTextBoxColumn.HeaderText = "Name";
             this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
             // 
+            // RatesUp
+            // 
+            this.RatesUp.DataPropertyName = "RatesUp";
+            this.RatesUp.HeaderText = "RatesUp";
+            this.RatesUp.Name = "RatesUp";
+            // 
+            // RatesDown
+            // 
+            this.RatesDown.DataPropertyName = "RatesDown";
+            this.RatesDown.HeaderText = "RatesDown";
+            this.RatesDown.Name = "RatesDown";
+            // 
             // configItemBindingSource
             // 
             this.configItemBindingSource.DataSource = typeof(configdownloader.ConfigItem);
+            // 
+            // saveFileDialog1
+            // 
+            this.saveFileDialog1.Filter = "Config|*.vdf";
             // 
             // statusStrip1
             // 
@@ -144,7 +144,7 @@
             this.currentStatus});
             this.statusStrip1.Location = new System.Drawing.Point(0, 342);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(551, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(803, 22);
             this.statusStrip1.TabIndex = 4;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -158,7 +158,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(551, 364);
+            this.ClientSize = new System.Drawing.Size(803, 364);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.datagridConfigs);
             this.Controls.Add(this.get);

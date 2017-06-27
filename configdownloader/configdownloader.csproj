@@ -64,6 +64,19 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="steamLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="steamLogin.Designer.cs">
+      <DependentUpon>steamLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="steamGuard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="steamGuard.Designer.cs">
+      <DependentUpon>steamGuard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SteamWorkshop.cs" />
     <EmbeddedResource Include="main.resx">
       <DependentUpon>main.cs</DependentUpon>
     </EmbeddedResource>
@@ -76,6 +89,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="steamLogin.resx">
+      <DependentUpon>steamLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="steamGuard.resx">
+      <DependentUpon>steamGuard.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\DataSources\ConfigItem.datasource" />
     <None Include="Properties\Settings.settings">
